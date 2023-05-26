@@ -88,7 +88,7 @@ This repo collects academic papers / Git repos / conference talks / frameworks /
 
 [Call Me Maybe: Eavesdropping Encrypted LTE Calls With ReVoLTE](https://www.usenix.org/system/files/sec20-rupprecht.pdf) (USENIX Sec 20)
 
-[From 5G Sniffing to Harvesting Leakages of Privacy-Preserving Messengers](https://csdl-downloads.ieeecomputer.org/proceedings/sp/2023/9336/00/933600b919.pdf?Expires=1685068026&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jc2RsLWRvd25sb2Fkcy5pZWVlY29tcHV0ZXIub3JnL3Byb2NlZWRpbmdzL3NwLzIwMjMvOTMzNi8wMC85MzM2MDBiOTE5LnBkZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTY4NTA2ODAyNn19fV19&Signature=eqwq1mtZUHiKYmtOJW41OaPJdo68dnnUki9qeCbzgyKSnzR72gn2mfIHpRf2XZS0QaOEqBg3VLnAgGPBQ3ILPxAf3lcc1GQ~FT0XoHVCJXqoVu2lKQcIiXwL7LaTy7z3Sz6wbW2Aw3N8PEuHoF0Hk~CtvEvb0FKL8UsZQ9DIPiwmKC6ocajxvcna4dwrjyEAaMlflVHUWpRsd7E4LPWrJa7~sM7Rg06miWma-i3P8nhXELrjLW0WidJsZ~JGmpKqywc8dOkiXruLrQGi-Coui-5ggXN2g1ziFFwaQngcPcqmbGw6PO6pcnF9LuyGbjDePf12oHPmtaqrIXgOck0H0Q__&Key-Pair-Id=K12PMWTCQBDMDT) (IEEE S&P 23)
+[From 5G Sniffing to Harvesting Leakages of Privacy-Preserving Messengers](https://www.computer.org/csdl/proceedings-article/sp/2023/933600b919/1Js0EtrckoM) (IEEE S&P 23)
 
 ### SMS attacks
 
