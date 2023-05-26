@@ -76,7 +76,7 @@ This repo collects academic papers / Git repos / conference talks / frameworks /
 
 ### Overshadowing attacks
 
-[Hiding in Plain Signal: Physical Signal Overshadowing Attack on LTE](Hiding in Plain Signal: Physical Signal Overshadowing Attack on LTE) (USENIX Sec 19)
+[Hiding in Plain Signal: Physical Signal Overshadowing Attack on LTE]([Hiding in Plain Signal: Physical Signal Overshadowing Attack on LTE](https://www.usenix.org/system/files/sec19-yang-hojoon.pdf) (USENIX Sec 19)
 
 [AdaptOver: Adaptive Overshadowing Attacks in Cellular Networks](https://dl.acm.org/doi/pdf/10.1145/3495243.3560525) (MobiCom 21)
 
