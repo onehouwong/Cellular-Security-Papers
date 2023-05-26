@@ -2,6 +2,18 @@
 
 This repo collects academic papers / Git repos / conference talks / frameworks / tools related to the research of cellular security and privacy.
 
+## Table of Content
+
+- [Baseband Analysis](https://github.com/onehouwong/Cellular-Security-Papers/blob/main/README.md#baseband-analysis)
+- [Vulnerability Discovery](https://github.com/onehouwong/Cellular-Security-Papers/blob/main/README.md#vulnerability-discovery)
+- [Defense](https://github.com/onehouwong/Cellular-Security-Papers/blob/main/README.md#defense)
+- [O-RAN Related](https://github.com/onehouwong/Cellular-Security-Papers/blob/main/README.md#o-ran-related)
+- [Core Network Security](https://github.com/onehouwong/Cellular-Security-Papers/blob/main/README.md#core-network-security)
+- [Survey](https://github.com/onehouwong/Cellular-Security-Papers/blob/main/README.md#survey)
+- [Open Source Projects / Frameworks / Tools](https://github.com/onehouwong/Cellular-Security-Papers/blob/main/README.md#open-source-projects--frameworks--tools)
+- [Open Dataset](https://github.com/onehouwong/Cellular-Security-Papers/blob/main/README.md#open-dataset)
+
+
 ## Baseband Analysis 
 ### Baseband Reverse Engineering
 
