@@ -178,6 +178,10 @@ This repo collects academic papers / Git repos / conference talks / frameworks /
 
 ## Core Network Security
 
+[A Systematic Analysis of 5G Networks With a Focus on 5G Core Security](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9709835)
+
+[Device-centric detection and mitigation of diameter signaling attacks against mobile core](https://ieeexplore.ieee.org/document/9705031)
+
 ## Survey
 
 [5G core network security issues and attack classification from network protocol perspective](https://isyou.info/jisis/vol10/no2/jisis-2020-vol10-no2-01.pdf)
