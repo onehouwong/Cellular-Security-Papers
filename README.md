@@ -240,3 +240,5 @@ This repo collects academic papers / Git repos / conference talks / frameworks /
 [5GAD-2022 5G attack detection dataset](https://github.com/IdahoLabResearch/5GAD)
 
 [5G Traffic Generation for Practical Simulations Using Open Datasets](https://github.com/0913ktg/5G-Traffic-Generator)
+
+[5GC PFCP Intrusion Detection Dataset](https://ieee-dataport.org/documents/5gc-pfcp-intrusion-detection-dataset-0)
