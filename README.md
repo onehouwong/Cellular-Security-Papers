@@ -236,3 +236,5 @@ This repo collects academic papers / Git repos / conference talks / frameworks /
 [OpenCellid](https://www.opencellid.org/#zoom=16&lat=37.77889&lon=-122.41942)
 
 [MobileInsight](http://www.mobileinsight.net/data.html)
+
+[5GAD-2022 5G attack detection dataset](https://github.com/IdahoLabResearch/5GAD)
