@@ -41,7 +41,7 @@ This repo collects academic papers / Git repos / conference talks / frameworks /
 [FIRMWIRE: Transparent Dynamic Analysis for Cellular Baseband Firmware](https://www.ndss-symposium.org/wp-content/uploads/2022-136-paper.pdf) (NDSS 22)
 
 
-## Vulnerability Discovery
+## Vulnerability Discovery / Analysis
 
 ### Formal verification
 [LTEInspector: A Systematic Approach for Adversarial Testing of 4G LTE](https://www.ndss-symposium.org/wp-content/uploads/2018/02/ndss2018_02A-3_Hussain_paper.pdf) (NDSS18)
@@ -141,6 +141,10 @@ This repo collects academic papers / Git repos / conference talks / frameworks /
 [Show Me Your Attach Request and I’ll Tell You Who You Are: Practical Fingerprinting Attacks in 4G and 5G Mobile Networks](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9888899) (DSC 23)
 
 [New vulnerabilities in 4G and 5G cellular access network protocols: exposing device capabilities](https://dl.acm.org/doi/pdf/10.1145/3317549.3319728) (WiSec19)
+
+### Downgrade
+
+[Never Let Me Down Again: Bidding-Down Attacks and Mitigations in 5G and 4G](https://radix-security.com/files/2021_downgrade.pdf) (WiSec 23)
 
 ## Defense
 ### Protocol Modification
