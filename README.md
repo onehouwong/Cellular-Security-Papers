@@ -31,7 +31,6 @@ This repo collects academic papers / Git repos / conference talks / frameworks /
 
 [How to design a baseband debugger (Samsung Shannon)](https://www.sstic.org/media/SSTIC2020/SSTIC-actes/how_to_design_a_baseband_debugger/SSTIC2020-Article-how_to_design_a_baseband_debugger-berard_fargues.pdf) 
 
-[Putting LTE Security Functions to the Test: A Framework to Evaluate Implementation Correctness](https://www.usenix.org/system/files/conference/woot16/woot16-paper-rupprecht.pdf) (WOOT 16)
 
 ### Emulation and fuzzing 
 [Emulating Samsung’s Baseband for Security Testing](https://i.blackhat.com/USA-20/Wednesday/us-20-Hernandez-Emulating-Samsungs-Baseband-For-Security-Testing.pdf)
@@ -60,6 +59,8 @@ This repo collects academic papers / Git repos / conference talks / frameworks /
 [Noncompliance as Deviant Behavior: An Automated Black-box Noncompliance Checker for 4G LTE Cellular Devices](https://dl.acm.org/doi/pdf/10.1145/3460120.3485388?casa_token=1trYQbO0eJ8AAAAA:movuNQPErx5n5KLo8iJxQMlFaKBYw5zA0Fm5ldAcXz6G1rNsYhIclTP2qCQaXmUGZWPN06Gjooo) (CCS 21)
 
 [DoLTEst: In-depth Downlink Negative Testing Framework for LTE Devices](https://www.usenix.org/system/files/sec22-park-cheoljun.pdf) (USENIX Sec 22)
+
+[Putting LTE Security Functions to the Test: A Framework to Evaluate Implementation Correctness](https://www.usenix.org/system/files/conference/woot16/woot16-paper-rupprecht.pdf) (WOOT 16)
 
 [UE Security Reloaded: Developing a 5G Standalone User-Side Security Testing Framework](https://www.researchgate.net/profile/Evangelos-Bitsikas/publication/371695252_UE_Security_Reloaded_Developing_a_5G_Standalone_User-Side_Security_Testing_Framework/links/64909ee78de7ed28ba3e20e9/UE-Security-Reloaded-Developing-a-5G-Standalone-User-Side-Security-Testing-Framework.pdf) (Wisec 23)
 
