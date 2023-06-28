@@ -44,11 +44,13 @@ This repo collects academic papers / Git repos / conference talks / frameworks /
 ## Vulnerability Discovery / Analysis
 
 ### Formal verification
-[LTEInspector: A Systematic Approach for Adversarial Testing of 4G LTE](https://www.ndss-symposium.org/wp-content/uploads/2018/02/ndss2018_02A-3_Hussain_paper.pdf) (NDSS18)
+[LTEInspector: A Systematic Approach for Adversarial Testing of 4G LTE](https://www.ndss-symposium.org/wp-content/uploads/2018/02/ndss2018_02A-3_Hussain_paper.pdf) (NDSS 18)
 
-[5GReasoner: A Property-Directed Security and Privacy Analysis Framework for 5G Cellular Network Protocol](https://scholar.google.com/scholar_url?url=https://dl.acm.org/doi/pdf/10.1145/3319535.3354263&hl=en&sa=T&oi=gsb-gga&ct=res&cd=0&d=8387770294509502037&ei=9xZwZKCVOpn5yATM9JTYDw&scisig=AGlGAw8UO9qubAAFKM0dMirIo53Y) (CCS19)
+[5GReasoner: A Property-Directed Security and Privacy Analysis Framework for 5G Cellular Network Protocol](https://scholar.google.com/scholar_url?url=https://dl.acm.org/doi/pdf/10.1145/3319535.3354263&hl=en&sa=T&oi=gsb-gga&ct=res&cd=0&d=8387770294509502037&ei=9xZwZKCVOpn5yATM9JTYDw&scisig=AGlGAw8UO9qubAAFKM0dMirIo53Y) (CCS 19)
 
-[A Formal Analysis of 5G Authentication](https://dl.acm.org/doi/pdf/10.1145/3243734.3243846?casa_token=Udg5jHRM7eIAAAAA:UFmvjlfg5cqOoO2sRiynZ61F3yiBOfvaKgByZE6_uI0Cgaf6HnlPmHsTNrKijHqCR6XflDstT7w) (CCS18)
+[A Formal Analysis of 5G Authentication](https://dl.acm.org/doi/pdf/10.1145/3243734.3243846?casa_token=Udg5jHRM7eIAAAAA:UFmvjlfg5cqOoO2sRiynZ61F3yiBOfvaKgByZE6_uI0Cgaf6HnlPmHsTNrKijHqCR6XflDstT7w) (CCS 18)
+
+[Provable Non-Frameability for 5G Lawful Interception](https://www.ida.liu.se/labs/rtslab/publications/2023/Felipe_WiSec2023.pdf) (Wisec 23)
 
 ### Fuzzing & testing
 [Touching the Untouchables: Dynamic Security Analysis of the LTE Control Plane](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8835363&casa_token=vyy_OHCpwYsAAAAA:HszCEmYSenLuMT33kFVwCiuvLhtdvYliLS1tBBfKoznBBeDpZtG_eXQx2TvK710ApqXF66c) (IEEE S&P 19)
@@ -62,6 +64,7 @@ This repo collects academic papers / Git repos / conference talks / frameworks /
 [UE Security Reloaded: Developing a 5G Standalone User-Side Security Testing Framework](https://www.researchgate.net/profile/Evangelos-Bitsikas/publication/371695252_UE_Security_Reloaded_Developing_a_5G_Standalone_User-Side_Security_Testing_Framework/links/64909ee78de7ed28ba3e20e9/UE-Security-Reloaded-Developing-a-5G-Standalone-User-Side-Security-Testing-Framework.pdf) (Wisec 23)
 
 [SecChecker: Inspecting the security implementation of 5G Commercial Off-The-Shelf (COTS) mobile devices](https://www.sciencedirect.com/science/article/abs/pii/S0167404823002717)
+
 
 ### Specification analysis
 [Bookworm Game: Automatic Discovery of LTE Vulnerabilities Through Documentation Analysis](https://ieeexplore.ieee.org/document/9519388) (IEEE S&P 21)
@@ -93,6 +96,8 @@ This repo collects academic papers / Git repos / conference talks / frameworks /
 [Call Me Maybe: Eavesdropping Encrypted LTE Calls With ReVoLTE](https://www.usenix.org/system/files/sec20-rupprecht.pdf) (USENIX Sec 20)
 
 [From 5G Sniffing to Harvesting Leakages of Privacy-Preserving Messengers](https://www.computer.org/csdl/proceedings-article/sp/2023/933600b919/1Js0EtrckoM) (IEEE S&P 23)
+
+[LTESniffer: An Open-source LTE Downlink/Uplink Eavesdropper](https://syssec.kaist.ac.kr/pub/2023/wisec2023_tuan.pdf) (Wisec 23)
 
 ### SMS attacks
 
@@ -150,6 +155,13 @@ This repo collects academic papers / Git repos / conference talks / frameworks /
 
 [Never Let Me Down Again: Bidding-Down Attacks and Mitigations in 5G and 4G](https://radix-security.com/files/2021_downgrade.pdf) (WiSec 23)
 
+### Measurement
+
+[BigMac 🍔 Performance Overhead of User Plane Integrity Protection in 5G Networks](https://radix-security.com/files/bigmac.pdf) (Wisec 23)
+
+[European 5G Security in the Wild: Reality versus Expectations](https://arxiv.org/pdf/2305.08635.pdf) (Wisec 23)
+
+
 ## Defense
 ### Protocol Modification
 [Look Before You Leap: Secure Connection Bootstrapping for 5G Networks to Defend Against Fake Base-Stations](https://dl.acm.org/doi/pdf/10.1145/3433210.3453082) (ASIACCS 21)
@@ -159,6 +171,8 @@ This repo collects academic papers / Git repos / conference talks / frameworks /
 [Privacy-Preserving and Standard-Compatible AKA Protocol for 5G](https://www.usenix.org/system/files/sec21-wang-yuchen.pdf) (USENIX Sec 21)
 
 [Insecure Connection Bootstrapping in Cellular Networks: The Root of All Evil](https://dl.acm.org/doi/pdf/10.1145/3317549.3323402) (Wisec 19)
+
+[BARON: Base-Station Authentication Through Core Network for Mobility Management in 5G Networks] (Wisec 23)
 
 ### Defense in UE
 [Thwarting Smartphone SMS Attacks at the Radio Interface Layer](https://www.ndss-symposium.org/wp-content/uploads/2023/02/ndss2023_f432_paper.pdf) (NDSS 23)
