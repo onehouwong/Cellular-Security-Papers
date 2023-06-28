@@ -50,7 +50,7 @@ This repo collects academic papers / Git repos / conference talks / frameworks /
 
 [A Formal Analysis of 5G Authentication](https://dl.acm.org/doi/pdf/10.1145/3243734.3243846?casa_token=Udg5jHRM7eIAAAAA:UFmvjlfg5cqOoO2sRiynZ61F3yiBOfvaKgByZE6_uI0Cgaf6HnlPmHsTNrKijHqCR6XflDstT7w) (CCS18)
 
-### Fuzz testing
+### Fuzzing & testing
 [Touching the Untouchables: Dynamic Security Analysis of the LTE Control Plane](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8835363&casa_token=vyy_OHCpwYsAAAAA:HszCEmYSenLuMT33kFVwCiuvLhtdvYliLS1tBBfKoznBBeDpZtG_eXQx2TvK710ApqXF66c) (IEEE S&P 19)
 
 [ProChecker: An Automated Security and Privacy Analysis Framework for 4G LTE Protocol Implementations](https://ieeexplore.ieee.org/document/9546434) (ICDCS21)
@@ -58,6 +58,8 @@ This repo collects academic papers / Git repos / conference talks / frameworks /
 [Noncompliance as Deviant Behavior: An Automated Black-box Noncompliance Checker for 4G LTE Cellular Devices](https://dl.acm.org/doi/pdf/10.1145/3460120.3485388?casa_token=1trYQbO0eJ8AAAAA:movuNQPErx5n5KLo8iJxQMlFaKBYw5zA0Fm5ldAcXz6G1rNsYhIclTP2qCQaXmUGZWPN06Gjooo) (CCS 21)
 
 [DoLTEst: In-depth Downlink Negative Testing Framework for LTE Devices](https://www.usenix.org/system/files/sec22-park-cheoljun.pdf) (USENIX Sec 22)
+
+[UE Security Reloaded: Developing a 5G Standalone User-Side Security Testing Framework](https://www.researchgate.net/profile/Evangelos-Bitsikas/publication/371695252_UE_Security_Reloaded_Developing_a_5G_Standalone_User-Side_Security_Testing_Framework/links/64909ee78de7ed28ba3e20e9/UE-Security-Reloaded-Developing-a-5G-Standalone-User-Side-Security-Testing-Framework.pdf) (Wisec 23)
 
 ### Specification analysis
 [Bookworm Game: Automatic Discovery of LTE Vulnerabilities Through Documentation Analysis](https://ieeexplore.ieee.org/document/9519388) (IEEE S&P 21)
