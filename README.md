@@ -5,7 +5,7 @@ This repo collects academic papers / Git repos / conference talks / frameworks /
 ## Table of Content
 
 - [Baseband Analysis](https://github.com/onehouwong/Cellular-Security-Papers#baseband-analysis)
-- [Vulnerability Discovery](https://github.com/onehouwong/Cellular-Security-Papers#vulnerability-discovery)
+- [Vulnerability Discovery / Analysis](https://github.com/onehouwong/Cellular-Security-Papers#vulnerability-discovery--analysis)
 - [Defense](https://github.com/onehouwong/Cellular-Security-Papers#defense)
 - [O-RAN Related](https://github.com/onehouwong/Cellular-Security-Papers#o-ran-related)
 - [Core Network Security](https://github.com/onehouwong/Cellular-Security-Papers#core-network-security)
