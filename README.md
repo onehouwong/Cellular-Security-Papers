@@ -61,6 +61,8 @@ This repo collects academic papers / Git repos / conference talks / frameworks /
 
 [UE Security Reloaded: Developing a 5G Standalone User-Side Security Testing Framework](https://www.researchgate.net/profile/Evangelos-Bitsikas/publication/371695252_UE_Security_Reloaded_Developing_a_5G_Standalone_User-Side_Security_Testing_Framework/links/64909ee78de7ed28ba3e20e9/UE-Security-Reloaded-Developing-a-5G-Standalone-User-Side-Security-Testing-Framework.pdf) (Wisec 23)
 
+[SecChecker: Inspecting the security implementation of 5G Commercial Off-The-Shelf (COTS) mobile devices](https://www.sciencedirect.com/science/article/abs/pii/S0167404823002717)
+
 ### Specification analysis
 [Bookworm Game: Automatic Discovery of LTE Vulnerabilities Through Documentation Analysis](https://ieeexplore.ieee.org/document/9519388) (IEEE S&P 21)
 
