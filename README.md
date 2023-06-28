@@ -65,6 +65,8 @@ This repo collects academic papers / Git repos / conference talks / frameworks /
 
 [SecChecker: Inspecting the security implementation of 5G Commercial Off-The-Shelf (COTS) mobile devices](https://www.sciencedirect.com/science/article/abs/pii/S0167404823002717)
 
+[Towards Automated Fuzzing of 4G/5G Protocol Implementations Over the Air](https://asset-group.github.io/papers/AutoFuzz4G5G.pdf)
+
 
 ### Specification analysis
 [Bookworm Game: Automatic Discovery of LTE Vulnerabilities Through Documentation Analysis](https://ieeexplore.ieee.org/document/9519388) (IEEE S&P 21)
