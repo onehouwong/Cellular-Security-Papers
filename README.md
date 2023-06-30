@@ -45,6 +45,8 @@ This repo collects academic papers / Git repos / conference talks / frameworks /
 ### Formal verification
 [LTEInspector: A Systematic Approach for Adversarial Testing of 4G LTE](https://www.ndss-symposium.org/wp-content/uploads/2018/02/ndss2018_02A-3_Hussain_paper.pdf) (NDSS 18)
 
+[Component-Based Formal Analysis of 5G-AKA: Channel Assumptions and Session Confusion](https://www.ndss-symposium.org/wp-content/uploads/2019/02/ndss2019_06B-1_Cremers_paper.pdf) (NDSS 19)
+
 [5GReasoner: A Property-Directed Security and Privacy Analysis Framework for 5G Cellular Network Protocol](https://scholar.google.com/scholar_url?url=https://dl.acm.org/doi/pdf/10.1145/3319535.3354263&hl=en&sa=T&oi=gsb-gga&ct=res&cd=0&d=8387770294509502037&ei=9xZwZKCVOpn5yATM9JTYDw&scisig=AGlGAw8UO9qubAAFKM0dMirIo53Y) (CCS 19)
 
 [A Formal Analysis of 5G Authentication](https://dl.acm.org/doi/pdf/10.1145/3243734.3243846?casa_token=Udg5jHRM7eIAAAAA:UFmvjlfg5cqOoO2sRiynZ61F3yiBOfvaKgByZE6_uI0Cgaf6HnlPmHsTNrKijHqCR6XflDstT7w) (CCS 18)
