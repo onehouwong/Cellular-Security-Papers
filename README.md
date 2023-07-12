@@ -23,14 +23,15 @@ This repo collects academic papers / Git repos / conference talks / frameworks /
 
 [MediaTec-baseband-LTE-RE](https://github.com/cyrozap/mediatek-lte-baseband-re)
 
-[BASESPEC: Comparative Analysis of Baseband Software and Cellular Specifications for L3 Protocols](https://www.ndss-symposium.org/wp-content/uploads/2021-365-paper.pdf) (NDSS 2021)
-
-[Baseband Attacks: Remote Exploitation of Memory Corruptions in Cellular Protocol Stacks](https://www.usenix.org/system/files/conference/woot12/woot12-final24.pdf&lang=en) (USENIX WOOT 2012) 
-
 [Huawei baseband exploit](https://i.blackhat.com/us-18/Thu-August-9/us-18-Grassi-Exploitation-of-a-Modern-Smartphone-Baseband-wp.pdf) (BH 18) 
 
 [How to design a baseband debugger (Samsung Shannon)](https://www.sstic.org/media/SSTIC2020/SSTIC-actes/how_to_design_a_baseband_debugger/SSTIC2020-Article-how_to_design_a_baseband_debugger-berard_fargues.pdf) 
 
+[Baseband Attacks: Remote Exploitation of Memory Corruptions in Cellular Protocol Stacks](https://www.usenix.org/system/files/conference/woot12/woot12-final24.pdf&lang=en) (USENIX WOOT 12) 
+
+[BASESPEC: Comparative Analysis of Baseband Software and Cellular Specifications for L3 Protocols](https://www.ndss-symposium.org/wp-content/uploads/2021-365-paper.pdf) (NDSS 21)
+
+[BASECOMP: A Comparative Analysis for Integrity Protection in Cellular Baseband Software](https://www.usenix.org/conference/usenixsecurity23/presentation/kim-eunsoo) (USENIX Security 23)
 
 ### Emulation and fuzzing 
 [Emulating Samsung’s Baseband for Security Testing](https://i.blackhat.com/USA-20/Wednesday/us-20-Hernandez-Emulating-Samsungs-Baseband-For-Security-Testing.pdf)
@@ -74,17 +75,21 @@ This repo collects academic papers / Git repos / conference talks / frameworks /
 ### Specification analysis
 [Bookworm Game: Automatic Discovery of LTE Vulnerabilities Through Documentation Analysis](https://ieeexplore.ieee.org/document/9519388) (IEEE S&P 21)
 
-[Seeing the Forest for the Trees: Understanding Security Hazards in the 3GPP Ecosystem through Intelligent Analysis on Change Requests](https://www.usenix.org/system/files/sec22-chen-yi.pdf) (USENIX Sec 22)
+[Seeing the Forest for the Trees: Understanding Security Hazards in the 3GPP Ecosystem through Intelligent Analysis on Change Requests](https://www.usenix.org/system/files/sec22-chen-yi.pdf) (USENIX Security 22)
 
-[Sherlock on Specs: Building LTE Conformance Tests through Automated Reasoning](https://www.usenix.org/system/files/sec23fall-prepub-518-chen-yi.pdf) (USENIX SEC 23)
+[Sherlock on Specs: Building LTE Conformance Tests through Automated Reasoning](https://www.usenix.org/system/files/sec23fall-prepub-518-chen-yi.pdf) (USENIX Security 23)
 
-### Layer 2/1 attacks
+[Instructions Unclear: Undefined Behaviour in Cellular Network Specifications](https://www.usenix.org/conference/usenixsecurity23/presentation/klischies) (USENIX Security 23)
+
+
+### Lower Layer attacks
 
 [Breaking LTE on Layer Two](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8835335&casa_token=o8_6BFMHkgsAAAAA:4IXB1wl-Nz62dj2y5TmxJKbC96iDO-i_UDyQAwhMGBRb9RU_JSFs1Lmg1PQ3ZDd8ge7FHO0) (IEEE S&P 19)
 
 [IMP4GT: IMPersonation Attacks in 4G NeTworks](https://www.ndss-symposium.org/wp-content/uploads/2020/02/24283.pdf) (NDSS 20)
 
 [LTE PHY Layer Vulnerability Analysis and Testing Using Open-Source SDR Tools](https://ieeexplore.ieee.org/document/8170787) (MilCom17)
+
 
 ### Overshadowing attacks
 
@@ -165,6 +170,8 @@ This repo collects academic papers / Git repos / conference talks / frameworks /
 [BigMac 🍔 Performance Overhead of User Plane Integrity Protection in 5G Networks](https://radix-security.com/files/bigmac.pdf) (Wisec 23)
 
 [European 5G Security in the Wild: Reality versus Expectations](https://arxiv.org/pdf/2305.08635.pdf) (Wisec 23)
+
+[MOBILEATLAS: Geographically Decoupled Measurements in Cellular Networks for Security and Privacy Research](https://www.usenix.org/system/files/sec23fall-prepub-390-gegenhuber.pdf) (USENIX Security 23)
 
 
 ## Defense
