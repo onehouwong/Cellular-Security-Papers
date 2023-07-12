@@ -184,7 +184,7 @@ This repo collects academic papers / open source projects / conference talks / f
 
 [Insecure Connection Bootstrapping in Cellular Networks: The Root of All Evil](https://dl.acm.org/doi/pdf/10.1145/3317549.3323402) (Wisec 19)
 
-[BARON: Base-Station Authentication Through Core Network for Mobility Management in 5G Networks] (Wisec 23)
+[BARON: Base-Station Authentication Through Core Network for Mobility Management in 5G Networks](https://dl.acm.org/doi/pdf/10.1145/3558482.3590187) (Wisec 23)
 
 ### Defense in UE
 [Thwarting Smartphone SMS Attacks at the Radio Interface Layer](https://www.ndss-symposium.org/wp-content/uploads/2023/02/ndss2023_f432_paper.pdf) (NDSS 23)
