@@ -1,6 +1,6 @@
 # Cellular-Security-Papers
 
-This repo collects academic papers / Git repos / conference talks / frameworks / tools related to the research of cellular security and privacy.
+This repo collects academic papers / open source projects / conference talks / frameworks / tools related to the research of cellular security and privacy.
 
 ## Table of Content
 
@@ -237,6 +237,8 @@ This repo collects academic papers / Git repos / conference talks / frameworks /
 [5G Security and Privacy – A Research Roadmap](https://arxiv.org/ftp/arxiv/papers/2003/2003.13604.pdf)
 
 [Improving 4G/5G air interface security: A survey of existing attacks on different LTE layers](https://www.sciencedirect.com/science/article/pii/S1389128621004576?casa_token=XUZ6iZly_NcAAAAA:-TwnVCauW3481LCz1vcGxgRpIoVtA-hkvFLDJ-BeuvJowilDaLBrA-YkSTB5t_xImTP4GCFu)
+
+[Awesome-Cellular-Hacking](https://github.com/W00t3k/Awesome-Cellular-Hacking)
 
 
 ## Open Source Projects / Frameworks / Tools
