@@ -173,6 +173,7 @@ This repo collects academic papers / open source projects / conference talks / f
 
 [MOBILEATLAS: Geographically Decoupled Measurements in Cellular Networks for Security and Privacy Research](https://www.usenix.org/system/files/sec23fall-prepub-390-gegenhuber.pdf) (USENIX Security 23)
 
+[Characterizing and Modeling Control-Plane Traffic for Mobile Core Network](https://arxiv.org/ftp/arxiv/papers/2212/2212.13248.pdf)
 
 ## Defense
 ### Protocol Modification
