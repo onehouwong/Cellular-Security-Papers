@@ -210,6 +210,8 @@ This repo collects academic papers / open source projects / conference talks / f
 
 ## O-RAN related
 
+[ColO-RAN: Developing Machine Learning-based xApps for Open RAN Closed-loop Control on Programmable Experimental Platforms](https://arxiv.org/pdf/2112.09559.pdf)
+
 [Understanding O-RAN: Architecture, Interfaces, Algorithms, Security, and Research Challenges](https://arxiv.org/pdf/2202.01032.pdf)
 
 [Securing 5G OpenRAN with a Scalable Authorization Framework for xApps](https://arxiv.org/pdf/2212.11465.pdf)
