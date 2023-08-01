@@ -210,6 +210,10 @@ This repo collects academic papers / open source projects / conference talks / f
 
 ## O-RAN related
 
+[DeepBeam: Deep Waveform Learning for Coordination-Free Beam Management in mmWave Networks](https://arxiv.org/pdf/2012.14350.pdf)
+
+[Intelligence and Learning in O-RAN for Data-Driven NextG Cellular Networks](https://ece.northeastern.edu/wineslab/papers/bonati2021intelligence.pdf)
+
 [ColO-RAN: Developing Machine Learning-based xApps for Open RAN Closed-loop Control on Programmable Experimental Platforms](https://arxiv.org/pdf/2112.09559.pdf)
 
 [Understanding O-RAN: Architecture, Interfaces, Algorithms, Security, and Research Challenges](https://arxiv.org/pdf/2202.01032.pdf)
