@@ -127,9 +127,11 @@ This repo collects academic papers / open source projects / conference talks / f
 
 ### Tracking
 
-[Practical Attacks Against Privacy and Availability in 4G/LTE Mobile Communication Systems](https://arxiv.org/pdf/1510.07563.pdf) (NDSS 16) 
-
 [5G SUCI-Catchers: Still catching them all?](https://dl.acm.org/doi/pdf/10.1145/3448300.3467826) (Wisec 21)
+
+[GUTI Reallocation Demystified: Cellular Location Tracking with Changing Temporary Identifier](https://syssec.kaist.ac.kr/pub/2018/hong_ndss_2018.pdf) (NDSS 18)
+
+[Practical Attacks Against Privacy and Availability in 4G/LTE Mobile Communication Systems](https://arxiv.org/pdf/1510.07563.pdf) (NDSS 16) 
 
 ### Handover attacks
 
