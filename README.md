@@ -11,6 +11,7 @@ This repo collects academic papers / open source projects / conference talks / f
 - [Core Network Security](https://github.com/onehouwong/Cellular-Security-Papers#core-network-security)
 - [Survey](https://github.com/onehouwong/Cellular-Security-Papers#survey)
 - [Open Source Projects / Frameworks / Tools](https://github.com/onehouwong/Cellular-Security-Papers#open-source-projects--frameworks--tools)
+- [Testbeds](https://github.com/onehouwong/Cellular-Security-Papers#testbeds)
 - [Open Dataset](https://github.com/onehouwong/Cellular-Security-Papers#open-dataset)
 
 
@@ -270,7 +271,7 @@ This repo collects academic papers / open source projects / conference talks / f
 
 [awesome-5g](https://github.com/calee0219/awesome-5g)
 
-## Testbed
+## Testbeds
 
 [Colosseum](https://www.northeastern.edu/colosseum/) 
 
