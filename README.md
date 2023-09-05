@@ -170,6 +170,8 @@ This repo collects academic papers / open source projects / conference talks / f
 
 ### Measurement
 
+[Evaluating the Security Posture of 5G Networks by Combining State Auditing and Event Monitoring]() (ESORICS 23)
+
 [BigMac 🍔 Performance Overhead of User Plane Integrity Protection in 5G Networks](https://radix-security.com/files/bigmac.pdf) (Wisec 23)
 
 [European 5G Security in the Wild: Reality versus Expectations](https://arxiv.org/pdf/2305.08635.pdf) (Wisec 23)
