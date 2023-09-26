@@ -180,6 +180,8 @@ This repo collects academic papers / open source projects / conference talks / f
 
 [Characterizing and Modeling Control-Plane Traffic for Mobile Core Network](https://arxiv.org/ftp/arxiv/papers/2212/2212.13248.pdf)
 
+[Measuring the Deployment of 5G Security Enhancement](https://dl.acm.org/doi/pdf/10.1145/3507657.3528559) (Wisec 22)
+
 ## Defense
 ### Protocol Modification
 [Look Before You Leap: Secure Connection Bootstrapping for 5G Networks to Defend Against Fake Base-Stations](https://dl.acm.org/doi/pdf/10.1145/3433210.3453082) (ASIACCS 21)
