@@ -55,7 +55,7 @@ This repo collects academic papers / open source projects / conference talks / f
 
 [Provable Non-Frameability for 5G Lawful Interception](https://www.ida.liu.se/labs/rtslab/publications/2023/Felipe_WiSec2023.pdf) (Wisec 23)
 
-### Fuzzing & testing
+### Fuzzing & Testing
 [Touching the Untouchables: Dynamic Security Analysis of the LTE Control Plane](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8835363&casa_token=vyy_OHCpwYsAAAAA:HszCEmYSenLuMT33kFVwCiuvLhtdvYliLS1tBBfKoznBBeDpZtG_eXQx2TvK710ApqXF66c) (IEEE S&P 19)
 
 [ProChecker: An Automated Security and Privacy Analysis Framework for 4G LTE Protocol Implementations](https://ieeexplore.ieee.org/document/9546434) (ICDCS21)
@@ -71,6 +71,8 @@ This repo collects academic papers / open source projects / conference talks / f
 [SecChecker: Inspecting the security implementation of 5G Commercial Off-The-Shelf (COTS) mobile devices](https://www.sciencedirect.com/science/article/abs/pii/S0167404823002717)
 
 [Towards Automated Fuzzing of 4G/5G Protocol Implementations Over the Air](https://asset-group.github.io/papers/AutoFuzz4G5G.pdf)
+
+[An Experimental Testbed for 5G Network Security Assessment](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10154283)
 
 
 ### Specification analysis
