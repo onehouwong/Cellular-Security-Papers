@@ -76,6 +76,7 @@ This repo collects academic papers / open source projects / conference talks / f
 
 [VET5G: A Virtual End-to-End Testbed for 5G Network Security Experimentation](https://dl.acm.org/doi/pdf/10.1145/3546096.3546111) (CSET 22)
 
+[An Automated Vulnerability Detection Method for the 5G RRC Protocol Based on Fuzzing](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9849690)
 
 ### Specification analysis
 [Bookworm Game: Automatic Discovery of LTE Vulnerabilities Through Documentation Analysis](https://ieeexplore.ieee.org/document/9519388) (IEEE S&P 21)
