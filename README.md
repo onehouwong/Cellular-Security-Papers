@@ -175,6 +175,8 @@ This repo collects academic papers / open source projects / conference talks / f
 
 ### Measurement
 
+[Demystifying the Presence of Cellular Network Attacks and Misbehaviors](https://dl.acm.org/doi/pdf/10.1145/3517745.3563017) (IMC 23)
+
 [Evaluating the Security Posture of 5G Networks by Combining State Auditing and Event Monitoring]() (ESORICS 23)
 
 [BigMac 🍔 Performance Overhead of User Plane Integrity Protection in 5G Networks](https://radix-security.com/files/bigmac.pdf) (Wisec 23)
@@ -207,6 +209,9 @@ This repo collects academic papers / open source projects / conference talks / f
 [CellDAM: User-Space, Rootless Detection and Mitigation for 5G Data Plane](https://www.usenix.org/system/files/nsdi23-tan.pdf) (NSDI 23)
 
 ### FBS Detection
+
+[Developing xApps for Rogue Base Station Detection in SDR-Enabled O-RAN](https://ieeexplore.ieee.org/document/10225868) (INFOCOM WKSHPS 23)
+
 [Murat: Multi-RAT False Base Station Detector](https://arxiv.org/pdf/2102.08780.pdf)
 
 [FBS-Radar: Uncovering Fake Base Stations at Scale in the Wild](https://www.ccs.neu.edu/home/cbw/static/pdf/li-ndss17.pdf) (NDSS 17)
