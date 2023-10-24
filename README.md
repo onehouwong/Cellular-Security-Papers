@@ -229,6 +229,8 @@ This repo collects academic papers / open source projects / conference talks / f
 
 [Taking 5G RAN Analytics and Control to a New Level](https://dl.acm.org/doi/pdf/10.1145/3570361.3592493) (MobiCom 23)
 
+[dApps: Distributed Applications for Real-time Inference and Control in O-RAN](https://arxiv.org/pdf/2203.02370.pdf)
+
 [DeepBeam: Deep Waveform Learning for Coordination-Free Beam Management in mmWave Networks](https://arxiv.org/pdf/2012.14350.pdf)
 
 [Intelligence and Learning in O-RAN for Data-Driven NextG Cellular Networks](https://ece.northeastern.edu/wineslab/papers/bonati2021intelligence.pdf)
