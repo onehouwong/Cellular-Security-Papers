@@ -209,6 +209,7 @@ This repo collects academic papers / open source projects / conference talks / f
 [BARON: Base-Station Authentication Through Core Network for Mobility Management in 5G Networks](https://dl.acm.org/doi/pdf/10.1145/3558482.3590187) (Wisec 23)
 
 ### Defense in UE
+
 [Thwarting Smartphone SMS Attacks at the Radio Interface Layer](https://www.ndss-symposium.org/wp-content/uploads/2023/02/ndss2023_f432_paper.pdf) (NDSS 23)
 
 [PHOENIX: Device-Centric Cellular Network Protocol Monitoring using Runtime Verification](https://www.ndss-symposium.org/wp-content/uploads/ndss2021_4A-3_24390_paper.pdf) (NDSS 21)
@@ -216,8 +217,6 @@ This repo collects academic papers / open source projects / conference talks / f
 [CellDAM: User-Space, Rootless Detection and Mitigation for 5G Data Plane](https://www.usenix.org/system/files/nsdi23-tan.pdf) (NSDI 23)
 
 ### FBS Detection
-
-[Developing xApps for Rogue Base Station Detection in SDR-Enabled O-RAN](https://ieeexplore.ieee.org/document/10225868) (INFOCOM WKSHPS 23)
 
 [Murat: Multi-RAT False Base Station Detector](https://arxiv.org/pdf/2102.08780.pdf)
 
@@ -230,6 +229,14 @@ This repo collects academic papers / open source projects / conference talks / f
 [SeaGlass: Enabling City-Wide IMSI-Catcher Detection](https://techpolicylab.uw.edu/wp-content/uploads/2018/07/SeaGlass-Enabling-City-Wide-IMSI-Catcher-Detection.pdf)
 
 [IMSI-Catch Me If You Can: IMSI-Catcher-Catchers](https://dl.acm.org/doi/pdf/10.1145/2664243.2664272) (ACSAC 14)
+
+### Defense on O-RAN
+
+[5G-Spector: An O-RAN Compliant Layer-3 Cellular Attack Detection Service](http://web.cse.ohio-state.edu/~wen.423/papers/5G-Spector-NDSS24.pdf)
+
+[Developing xApps for Rogue Base Station Detection in SDR-Enabled O-RAN](https://ieeexplore.ieee.org/document/10225868) (INFOCOM WKSHPS 23)
+
+[A Fine-Grained Telemetry Stream for Security Services in 5G Open Radio Access Networks](https://dl.acm.org/doi/pdf/10.1145/3565474.3569070)
 
 
 ## O-RAN related
@@ -254,7 +261,6 @@ This repo collects academic papers / open source projects / conference talks / f
 
 [FlexRIC: An SDK for Next-Generation SD-RANs](https://dl.acm.org/doi/pdf/10.1145/3485983.3494870)
 
-[A Fine-Grained Telemetry Stream for Security Services in 5G Open Radio Access Networks](https://dl.acm.org/doi/pdf/10.1145/3565474.3569070)
        
 
 ## Core Network Security
