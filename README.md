@@ -184,8 +184,6 @@ This repo collects academic papers / open source projects / conference talks / f
 
 [Demystifying the Presence of Cellular Network Attacks and Misbehaviors](https://dl.acm.org/doi/pdf/10.1145/3517745.3563017) (IMC 23)
 
-[Evaluating the Security Posture of 5G Networks by Combining State Auditing and Event Monitoring]() (ESORICS 23)
-
 [BigMac 🍔 Performance Overhead of User Plane Integrity Protection in 5G Networks](https://radix-security.com/files/bigmac.pdf) (Wisec 23)
 
 [European 5G Security in the Wild: Reality versus Expectations](https://arxiv.org/pdf/2305.08635.pdf) (Wisec 23)
@@ -264,6 +262,8 @@ This repo collects academic papers / open source projects / conference talks / f
        
 
 ## Core Network Security
+
+[Evaluating the Security Posture of 5G Networks by Combining State Auditing and Event Monitoring](https://cisr.encs.concordia.ca/papers/ESORICS_2023_paper_377_5GSPE.pdf) (ESORICS 23)
 
 [A Systematic Analysis of 5G Networks With a Focus on 5G Core Security](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9709835)
 
