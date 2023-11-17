@@ -239,6 +239,8 @@ This repo collects academic papers / open source projects / conference talks / f
 
 ## O-RAN related
 
+[AI Testing Framework for Next-G O-RAN Networks: Requirements, Design, and Research Opportunities](https://arxiv.org/pdf/2211.03979.pdf)
+
 [Taking 5G RAN Analytics and Control to a New Level](https://dl.acm.org/doi/pdf/10.1145/3570361.3592493) (MobiCom 23)
 
 [dApps: Distributed Applications for Real-time Inference and Control in O-RAN](https://arxiv.org/pdf/2203.02370.pdf)
@@ -299,6 +301,8 @@ This repo collects academic papers / open source projects / conference talks / f
 [Awesome-Cellular-Hacking](https://github.com/W00t3k/Awesome-Cellular-Hacking)
 
 [awesome-5g](https://github.com/calee0219/awesome-5g)
+
+[Open AI Cellular](https://www.openaicellular.org/)
 
 ## Testbeds
 
