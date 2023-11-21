@@ -314,6 +314,9 @@ This repo collects academic papers / open source projects / conference talks / f
 
 
 ## Open Dataset
+
+[5G Traffic Datasets](https://ieee-dataport.org/documents/5g-traffic-datasets)
+
 [Beyond Throughput, The Next Generation: a 5G Dataset with Channel and Context Metrics](https://github.com/uccmisl/5Gdataset)
 
 [SPEC5G: A Dataset for 5G Cellular Network Protocol Analysis](https://arxiv.org/pdf/2301.09201.pdf)
