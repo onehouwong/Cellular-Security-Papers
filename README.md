@@ -182,6 +182,8 @@ This repo collects academic papers / open source projects / conference talks / f
 
 ### Measurement
 
+[Modeling and Generating Control-Plane Traffic for Cellular Networks](https://dl.acm.org/doi/pdf/10.1145/3618257.3624808) (IMC 23)
+
 [Demystifying the Presence of Cellular Network Attacks and Misbehaviors](https://dl.acm.org/doi/pdf/10.1145/3517745.3563017) (IMC 23)
 
 [BigMac 🍔 Performance Overhead of User Plane Integrity Protection in 5G Networks](https://radix-security.com/files/bigmac.pdf) (Wisec 23)
