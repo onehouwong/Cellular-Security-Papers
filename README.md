@@ -306,6 +306,8 @@ This repo collects academic papers / open source projects / conference talks / f
 
 [Open AI Cellular](https://www.openaicellular.org/)
 
+[5Ghoul - 5G NR Attacks & 5G OTA Fuzzing⚡](https://github.com/asset-group/5ghoul-5g-nr-attacks)
+
 ## Testbeds
 
 [Colosseum](https://www.northeastern.edu/colosseum/) 
