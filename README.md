@@ -275,6 +275,11 @@ This repo collects academic papers / open source projects / conference talks / f
 
 [On the Challenges of Automata Reconstruction in LTE Networks](https://dl.acm.org/doi/pdf/10.1145/3448300.3469133)
 
+## Network Slicing Security
+
+[Slicure5G: Secure Slicing for 5G](https://www.cs.purdue.edu/homes/fahmy/posters/nsdi23poster5G.pdf)
+
+
 ## Survey
 
 [5G core network security issues and attack classification from network protocol perspective](https://isyou.info/jisis/vol10/no2/jisis-2020-vol10-no2-01.pdf)
