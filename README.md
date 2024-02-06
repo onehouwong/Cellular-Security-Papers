@@ -239,6 +239,7 @@ This repo collects academic papers / open source projects / conference talks / f
 
 [A Fine-Grained Telemetry Stream for Security Services in 5G Open Radio Access Networks](https://dl.acm.org/doi/pdf/10.1145/3565474.3569070) (EmergingWireless 22)
 
+[Det-RAN: Data-Driven Cross-Layer Real-Time Attack Detection in 5G Open RANs](https://ece.northeastern.edu/wineslab/papers/scalingi2024infocom.pdf) (INFOCOM 24)
 
 ## O-RAN related
 
