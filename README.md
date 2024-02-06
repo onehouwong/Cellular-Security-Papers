@@ -282,13 +282,17 @@ This repo collects academic papers / open source projects / conference talks / f
 
 [SliceSecure: Impact and Detection of DoS/DDoS Attacks on 5G Network Slices](https://uregina.ca/~nss373/papers/slice-secure.pdf)
 
+[Secure5G: A Deep Learning Framework Towards a Secure Network Slicing in 5G and Beyond](https://ieeexplore.ieee.org/abstract/document/9031158)
+
+[DeepSecure: Detection of distributed denial of service attacks on 5G network slicing—Deep learning approach](https://ieeexplore.ieee.org/abstract/document/9638941)
+
 ## Survey
 
 [5G core network security issues and attack classification from network protocol perspective](https://isyou.info/jisis/vol10/no2/jisis-2020-vol10-no2-01.pdf)
 
 [5G Security and Privacy – A Research Roadmap](https://arxiv.org/ftp/arxiv/papers/2003/2003.13604.pdf)
 
-[Improving 4G/5G air interface security: A survey of existing attacks on different LTE layers](https://www.sciencedirect.com/science/article/pii/S1389128621004576?casa_token=XUZ6iZly_NcAAAAA:-TwnVCauW3481LCz1vcGxgRpIoVtA-hkvFLDJ-BeuvJowilDaLBrA-YkSTB5t_xImTP4GCFu)
+[Improving 4G/5G air interface security: A survey of existing attacks on different LTE layers](https://www.sciencedirect.com/science/article/pii/S1389128621004576)
 
 
 ## Open Source Projects / Frameworks / Tools
