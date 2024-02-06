@@ -280,6 +280,7 @@ This repo collects academic papers / open source projects / conference talks / f
 
 [Slicure5G: Secure Slicing for 5G](https://www.cs.purdue.edu/homes/fahmy/posters/nsdi23poster5G.pdf)
 
+[SliceSecure: Impact and Detection of DoS/DDoS Attacks on 5G Network Slices](https://uregina.ca/~nss373/papers/slice-secure.pdf)
 
 ## Survey
 
