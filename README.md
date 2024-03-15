@@ -35,6 +35,8 @@ This repo collects academic papers / open source projects / conference talks / f
 
 [BASECOMP: A Comparative Analysis for Integrity Protection in Cellular Baseband Software](https://www.usenix.org/conference/usenixsecurity23/presentation/kim-eunsoo) (USENIX Security 23)
 
+[Semantic-Enhanced Static Vulnerability Detection in Baseband Firmware](https://www.computer.org/csdl/proceedings-article/icse/2024/021700a957/1V5BkXYOHgA) (ICSE'24)
+
 ### Emulation and fuzzing 
 [Emulating Samsung’s Baseband for Security Testing](https://i.blackhat.com/USA-20/Wednesday/us-20-Hernandez-Emulating-Samsungs-Baseband-For-Security-Testing.pdf)
 
