@@ -298,25 +298,39 @@ This repo collects academic papers / open source projects / conference talks / f
 
 ## Open Source Projects / Frameworks / Tools
 
+### RAN
+
 [srsRAN](https://github.com/srsran)
 
 [openairinterface5g](https://gitlab.eurecom.fr/oai/openairinterface5g)
+
+[UERANSIM](https://github.com/aligungr/UERANSIM)
+
+[YateBTS](https://yatebts.com/)
+
+### Core
 
 [Open5GS](https://github.com/open5gs/open5gs)
 
 [Free5gc](https://github.com/free5gc/free5gc)
 
-[UERANSIM](https://github.com/aligungr/UERANSIM)
+[OAI 5GC](https://gitlab.eurecom.fr/oai/cn5g/oai-cn5g-fed/)
+
+### O-RAN RIC / xApps / rApps
+
+[O-RAN SC](https://wiki.o-ran-sc.org/display/ORAN)
 
 [SDRAN-in-a-Box (RiaB)](https://docs.sd-ran.org/master/sdran-in-a-box/README.html)
 
-[YateBTS](https://yatebts.com/)
+[FlexRIC](https://gitlab.eurecom.fr/mosaic5g/flexric)
+
+[Open AI Cellular](https://www.openaicellular.org/)
+
+### Misc
 
 [Awesome-Cellular-Hacking](https://github.com/W00t3k/Awesome-Cellular-Hacking)
 
 [awesome-5g](https://github.com/calee0219/awesome-5g)
-
-[Open AI Cellular](https://www.openaicellular.org/)
 
 [5Ghoul - 5G NR Attacks & 5G OTA Fuzzing⚡](https://github.com/asset-group/5ghoul-5g-nr-attacks)
 
