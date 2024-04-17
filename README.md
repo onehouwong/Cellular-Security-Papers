@@ -85,6 +85,8 @@ This repo collects academic papers / open source projects / conference talks / f
 
 [An Automated Vulnerability Detection Method for the 5G RRC Protocol Based on Fuzzing](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9849690)
 
+[5Greplay: a 5G Network Traffic Fuzzer - Application to Attack Injection](https://dl.acm.org/doi/pdf/10.1145/3465481.3470079)
+
 ### Specification analysis
 
 [Hermes: Unlocking Security Analysis of Cellular Network Protocols by Synthesizing Finite State Machines from Natural Language Specifications](https://arxiv.org/pdf/2310.04381.pdf) (USENIX Security 24)
