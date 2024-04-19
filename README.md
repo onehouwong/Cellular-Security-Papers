@@ -273,13 +273,15 @@ This repo collects academic papers / open source projects / conference talks / f
 
 ## Core Network Security
 
-[Evaluating the Security Posture of 5G Networks by Combining State Auditing and Event Monitoring](https://cisr.encs.concordia.ca/papers/ESORICS_2023_paper_377_5GSPE.pdf) (ESORICS 23)
+[Evaluating the Security Posture of 5G Networks by Combining State Auditing and Event Monitoring](https://cisr.encs.concordia.ca/papers/ESORICS_2023_paper_377_5GSPE.pdf) (ESORICS'23)
 
 [A Systematic Analysis of 5G Networks With a Focus on 5G Core Security](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9709835)
 
 [Device-centric detection and mitigation of diameter signaling attacks against mobile core](https://ieeexplore.ieee.org/document/9705031)
 
 [On the Challenges of Automata Reconstruction in LTE Networks](https://dl.acm.org/doi/pdf/10.1145/3448300.3469133)
+
+[5GAC-Analyzer: Identifying Over-Privilege Between 5G Core Network Functions](https://www.enck.org/pubs/thorn-wisec24.pdf) (Wisec'24)
 
 ## Network Slicing Security
 
