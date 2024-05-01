@@ -87,6 +87,8 @@ This repo collects academic papers / open source projects / conference talks / f
 
 [5Greplay: a 5G Network Traffic Fuzzer - Application to Attack Injection](https://dl.acm.org/doi/pdf/10.1145/3465481.3470079)
 
+[ASTRA-5G: Automated Over-the-Air Security Testing and Research Architecture for 5G SA Devices] (Wisec'24)
+
 ### Specification analysis
 
 [Hermes: Unlocking Security Analysis of Cellular Network Protocols by Synthesizing Finite State Machines from Natural Language Specifications](https://arxiv.org/pdf/2310.04381.pdf) (USENIX Security 24)
@@ -201,6 +203,9 @@ This repo collects academic papers / open source projects / conference talks / f
 
 [Measuring the Deployment of 5G Security Enhancement](https://dl.acm.org/doi/pdf/10.1145/3507657.3528559) (Wisec 22)
 
+[Uncovering Security Vulnerabilities in Real-world Implementation and Deployment of 5G Messaging Services] (Wisec'24)
+
+
 ## Defense
 ### Protocol Modification
 [Look Before You Leap: Secure Connection Bootstrapping for 5G Networks to Defend Against Fake Base-Stations](https://dl.acm.org/doi/pdf/10.1145/3433210.3453082) (ASIACCS 21)
@@ -269,8 +274,11 @@ This repo collects academic papers / open source projects / conference talks / f
 
 [FlexRIC: An SDK for Next-Generation SD-RANs](https://dl.acm.org/doi/pdf/10.1145/3485983.3494870)
 
-       
+[Security Testing The O-RAN Near-Real Time RIC & A1 Interface] (Wisec'24)
 
+[System-level Analysis of Adversarial Attacks and Defenses on Intelligence in O-RAN based Cellular Networks] (Wisec'24)
+
+       
 ## Core Network Security
 
 [Evaluating the Security Posture of 5G Networks by Combining State Auditing and Event Monitoring](https://cisr.encs.concordia.ca/papers/ESORICS_2023_paper_377_5GSPE.pdf) (ESORICS'23)
@@ -282,6 +290,11 @@ This repo collects academic papers / open source projects / conference talks / f
 [On the Challenges of Automata Reconstruction in LTE Networks](https://dl.acm.org/doi/pdf/10.1145/3448300.3469133)
 
 [5GAC-Analyzer: Identifying Over-Privilege Between 5G Core Network Functions](https://www.enck.org/pubs/thorn-wisec24.pdf) (Wisec'24)
+
+[PROV5GC: Hardening 5G Core Network Security with Attack Detection and Attribution Based on Provenance Graphs] (Wisec'24)
+
+[Performance Evaluation of Transport Layer Security in the 5G Core Control Plane] (Wisec'24)
+
 
 ## Network Slicing Security
 
