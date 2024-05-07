@@ -91,15 +91,17 @@ This repo collects academic papers / open source projects / conference talks / f
 
 ### Specification analysis
 
-[Hermes: Unlocking Security Analysis of Cellular Network Protocols by Synthesizing Finite State Machines from Natural Language Specifications](https://arxiv.org/pdf/2310.04381.pdf) (USENIX Security 24)
+[Bookworm Game: Automatic Discovery of LTE Vulnerabilities Through Documentation Analysis](https://ieeexplore.ieee.org/document/9519388) (IEEE S&P 21)
+
+[Seeing the Forest for the Trees: Understanding Security Hazards in the 3GPP Ecosystem through Intelligent Analysis on Change Requests](https://www.usenix.org/system/files/sec22-chen-yi.pdf) (USENIX Security 22)
 
 [Sherlock on Specs: Building LTE Conformance Tests through Automated Reasoning](https://www.usenix.org/system/files/sec23fall-prepub-518-chen-yi.pdf) (USENIX Security 23)
 
 [Instructions Unclear: Undefined Behaviour in Cellular Network Specifications](https://www.usenix.org/conference/usenixsecurity23/presentation/klischies) (USENIX Security 23)
 
-[Bookworm Game: Automatic Discovery of LTE Vulnerabilities Through Documentation Analysis](https://ieeexplore.ieee.org/document/9519388) (IEEE S&P 21)
+[Hermes: Unlocking Security Analysis of Cellular Network Protocols by Synthesizing Finite State Machines from Natural Language Specifications](https://arxiv.org/pdf/2310.04381.pdf) (USENIX Security 24)
 
-[Seeing the Forest for the Trees: Understanding Security Hazards in the 3GPP Ecosystem through Intelligent Analysis on Change Requests](https://www.usenix.org/system/files/sec22-chen-yi.pdf) (USENIX Security 22)
+[CellularLint: A Systematic Approach to Identify Inconsistent Behavior in Cellular Network Specifications](https://www.usenix.org/system/files/sec24fall-prepub-400-rahman.pdf) (USENIX Security 24)
 
 
 ### Lower Layer attacks
