@@ -385,3 +385,6 @@ This repo collects academic papers / open source projects / conference talks / f
 [5G Traffic Generation for Practical Simulations Using Open Datasets](https://github.com/0913ktg/5G-Traffic-Generator)
 
 [5GC PFCP Intrusion Detection Dataset](https://ieee-dataport.org/documents/5gc-pfcp-intrusion-detection-dataset-0)
+
+[TSpec-LLM: An Open-source Dataset for LLM Understanding of 3GPP Specifications](https://huggingface.co/datasets/rasoul-nikbakht/TSpec-LLM)
+
