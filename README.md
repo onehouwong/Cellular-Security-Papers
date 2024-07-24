@@ -37,6 +37,8 @@ This repo collects academic papers / open source projects / conference talks / f
 
 [Semantic-Enhanced Static Vulnerability Detection in Baseband Firmware](https://www.computer.org/csdl/proceedings-article/icse/2024/021700a957/1V5BkXYOHgA) (ICSE'24)
 
+[Logic Gone Astray: A Security Analysis Framework for the Control Plane Protocols of 5G Basebands](https://www.usenix.org/conference/usenixsecurity24/presentation/tu) (USENIX Security 24)
+
 ### Emulation and fuzzing 
 [Emulating Samsung’s Baseband for Security Testing](https://i.blackhat.com/USA-20/Wednesday/us-20-Hernandez-Emulating-Samsungs-Baseband-For-Security-Testing.pdf)
 
@@ -112,6 +114,8 @@ This repo collects academic papers / open source projects / conference talks / f
 
 [LTE PHY Layer Vulnerability Analysis and Testing Using Open-Source SDR Tools](https://ieeexplore.ieee.org/document/8170787) (MilCom17)
 
+[On the Criticality of Integrity Protection in 5G Fronthaul Networks](https://www.usenix.org/conference/usenixsecurity24/presentation/xing-jiarong) (USENIX Security 24)
+
 
 ### Overshadowing attacks
 
@@ -168,6 +172,8 @@ This repo collects academic papers / open source projects / conference talks / f
 ### SIM Security
 
 [SecureSIM: Rethinking Authentication and Access Control for SIM/eSIM](https://dl.acm.org/doi/pdf/10.1145/3447993.3483254) (MobiCom 21)
+
+[SIMurai: Slicing Through the Complexity of SIM Card Security Research](https://www.usenix.org/conference/usenixsecurity24/presentation/lisowski) (USENIX Security 24)
 
 ### Data-plane attack
 
@@ -387,4 +393,6 @@ This repo collects academic papers / open source projects / conference talks / f
 [5GC PFCP Intrusion Detection Dataset](https://ieee-dataport.org/documents/5gc-pfcp-intrusion-detection-dataset-0)
 
 [TSpec-LLM: An Open-source Dataset for LLM Understanding of 3GPP Specifications](https://huggingface.co/datasets/rasoul-nikbakht/TSpec-LLM)
+
+[ORAN-Bench-13K: An Open Source Benchmark for Assessing LLMs in Open Radio Access Networks](https://arxiv.org/pdf/2407.06245)
 
