@@ -303,6 +303,8 @@ This repo collects academic papers / open source projects / conference talks / f
 
 [Performance Evaluation of Transport Layer Security in the 5G Core Control Plane](https://dl.acm.org/doi/pdf/10.1145/3643833.3656140) (Wisec'24)
 
+[Towards Shielding 5G Control Plane Functions](https://dsn2024uq.github.io/Proceedings/pdfs/DSN2024-6rvE3SSpzFYmysif75Dkid/410500a302/410500a302.pdf) (DSN'24)
+
 
 ## Network Slicing Security
 
