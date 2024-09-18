@@ -39,6 +39,8 @@ This repo collects academic papers / open source projects / conference talks / f
 
 [Logic Gone Astray: A Security Analysis Framework for the Control Plane Protocols of 5G Basebands](https://www.usenix.org/conference/usenixsecurity24/presentation/tu) (USENIX Security 24)
 
+[BaseMirror: Automatic Reverse Engineering of Baseband Commands from Android's Radio Interface Layer](https://arxiv.org/pdf/2409.00475) (CCS 24)
+
 ### Emulation and fuzzing 
 [Emulating Samsung’s Baseband for Security Testing](https://i.blackhat.com/USA-20/Wednesday/us-20-Hernandez-Emulating-Samsungs-Baseband-For-Security-Testing.pdf)
 
@@ -90,6 +92,8 @@ This repo collects academic papers / open source projects / conference talks / f
 [5Greplay: a 5G Network Traffic Fuzzer - Application to Attack Injection](https://dl.acm.org/doi/pdf/10.1145/3465481.3470079)
 
 [ASTRA-5G: Automated Over-the-Air Security Testing and Research Architecture for 5G SA Devices](https://dl.acm.org/doi/pdf/10.1145/3643833.3656141) (Wisec'24)
+
+[RANsacked: A Domain-Informed Approach for Fuzzing LTE and 5G RAN-Core Interfaces]() (CCS'24)
 
 ### Specification analysis
 
