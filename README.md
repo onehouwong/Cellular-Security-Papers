@@ -217,6 +217,9 @@ This repo collects academic papers / open source projects / conference talks / f
 
 [Uncovering Security Vulnerabilities in Real-world Implementation and Deployment of 5G Messaging Services](https://dl.acm.org/doi/pdf/10.1145/3643833.3656131) (Wisec'24)
 
+### Satellite Networks
+
+[The Dark Side of Scale: Insecurity of Direct-to-Cell Satellite Mega-Constellations](https://ieeexplore.ieee.org/document/10646850) (IEEE S&P 24)
 
 ## Defense
 ### Protocol Modification
