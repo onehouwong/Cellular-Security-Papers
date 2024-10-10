@@ -243,7 +243,7 @@ This repo collects academic papers / open source projects / conference talks / f
 
 [CellDAM: User-Space, Rootless Detection and Mitigation for 5G Data Plane](https://www.usenix.org/system/files/nsdi23-tan.pdf) (NSDI 23)
 
-### FBS Detection
+### Fake Base Station Detection
 
 [Murat: Multi-RAT False Base Station Detector](https://arxiv.org/pdf/2102.08780.pdf)
 
@@ -256,6 +256,8 @@ This repo collects academic papers / open source projects / conference talks / f
 [SeaGlass: Enabling City-Wide IMSI-Catcher Detection](https://techpolicylab.uw.edu/wp-content/uploads/2018/07/SeaGlass-Enabling-City-Wide-IMSI-Catcher-Detection.pdf)
 
 [IMSI-Catch Me If You Can: IMSI-Catcher-Catchers](https://dl.acm.org/doi/pdf/10.1145/2664243.2664272) (ACSAC 14)
+
+[Catch You Cause I Can: Busting Rogue Base Stations using CellGuard and the Apple Cell Location Database](https://dl.acm.org/doi/pdf/10.1145/3678890.3678898) (RAID 24)
 
 ### Defense on O-RAN
 
