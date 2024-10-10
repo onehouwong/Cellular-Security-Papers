@@ -224,6 +224,7 @@ This repo collects academic papers / open source projects / conference talks / f
 [The Dark Side of Scale: Insecurity of Direct-to-Cell Satellite Mega-Constellations](https://ieeexplore.ieee.org/document/10646850) (IEEE S&P 24)
 
 ## Defense
+
 ### Protocol Modification
 [Look Before You Leap: Secure Connection Bootstrapping for 5G Networks to Defend Against Fake Base-Stations](https://dl.acm.org/doi/pdf/10.1145/3433210.3453082) (ASIACCS 21)
 
@@ -234,6 +235,8 @@ This repo collects academic papers / open source projects / conference talks / f
 [Insecure Connection Bootstrapping in Cellular Networks: The Root of All Evil](https://dl.acm.org/doi/pdf/10.1145/3317549.3323402) (Wisec 19)
 
 [BARON: Base-Station Authentication Through Core Network for Mobility Management in 5G Networks](https://dl.acm.org/doi/pdf/10.1145/3558482.3590187) (Wisec 23)
+
+[Fixing Insecure Cellular System Information Broadcasts For Good](https://dl.acm.org/doi/pdf/10.1145/3678890.3678924) (RAID 24)
 
 ### Defense in UE
 
