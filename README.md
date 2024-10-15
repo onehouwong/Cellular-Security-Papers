@@ -319,6 +319,8 @@ This repo collects academic papers / open source projects / conference talks / f
 
 [Towards Shielding 5G Control Plane Functions](https://dsn2024uq.github.io/Proceedings/pdfs/DSN2024-6rvE3SSpzFYmysif75Dkid/410500a302/410500a302.pdf) (DSN'24)
 
+[Examining Cryptography and Randomness Failures in Open-Source Cellular Cores](https://www.enck.org/pubs/english-codaspy24.pdf) (CODASPY'24)
+
 
 ## Network Slicing Security
 
