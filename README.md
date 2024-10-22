@@ -46,6 +46,8 @@ This repo collects academic papers / open source projects / conference talks / f
 
 [BaseSAFE: Baseband SAnitized Fuzzing through Emulation](https://dl.acm.org/doi/pdf/10.1145/3395351.3399360?casa_token=3UggI7CmJX4AAAAA:Deh7qkL1M6xy5lm6BqsPcYdH5wbhUDzH4ckQPNkDGo_LXTrkPVledrrqsnkefgzJeuX5f2DPXp4) (WiSec 20)
 
+[ARIstoteles – Dissecting Apple’s Baseband Interface](https://link.springer.com/chapter/10.1007/978-3-030-88418-5_7) (ESORICS 21)
+
 [FIRMWIRE: Transparent Dynamic Analysis for Cellular Baseband Firmware](https://www.ndss-symposium.org/wp-content/uploads/2022-136-paper.pdf) (NDSS 22)
 
 
