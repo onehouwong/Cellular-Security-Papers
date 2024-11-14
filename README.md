@@ -29,22 +29,22 @@ This repo collects academic papers / open source projects / conference talks / f
 
 [How to design a baseband debugger (Samsung Shannon)](https://www.sstic.org/media/SSTIC2020/SSTIC-actes/how_to_design_a_baseband_debugger/SSTIC2020-Article-how_to_design_a_baseband_debugger-berard_fargues.pdf) 
 
-[Baseband Attacks: Remote Exploitation of Memory Corruptions in Cellular Protocol Stacks](https://www.usenix.org/system/files/conference/woot12/woot12-final24.pdf&lang=en) (USENIX WOOT 12) 
+[Baseband Attacks: Remote Exploitation of Memory Corruptions in Cellular Protocol Stacks](https://www.usenix.org/system/files/conference/woot12/woot12-final24.pdf) (USENIX WOOT 12) 
 
 [BASESPEC: Comparative Analysis of Baseband Software and Cellular Specifications for L3 Protocols](https://www.ndss-symposium.org/wp-content/uploads/2021-365-paper.pdf) (NDSS 21)
 
-[BASECOMP: A Comparative Analysis for Integrity Protection in Cellular Baseband Software](https://www.usenix.org/conference/usenixsecurity23/presentation/kim-eunsoo) (USENIX Security 23)
+[BASECOMP: A Comparative Analysis for Integrity Protection in Cellular Baseband Software](https://www.usenix.org/system/files/usenixsecurity23-kim-eunsoo.pdf) (USENIX Security 23)
 
-[Semantic-Enhanced Static Vulnerability Detection in Baseband Firmware](https://www.computer.org/csdl/proceedings-article/icse/2024/021700a957/1V5BkXYOHgA) (ICSE'24)
+[Semantic-Enhanced Static Vulnerability Detection in Baseband Firmware](https://dl.acm.org/doi/pdf/10.1145/3597503.3639158) (ICSE'24)
 
-[Logic Gone Astray: A Security Analysis Framework for the Control Plane Protocols of 5G Basebands](https://www.usenix.org/conference/usenixsecurity24/presentation/tu) (USENIX Security 24)
+[Logic Gone Astray: A Security Analysis Framework for the Control Plane Protocols of 5G Basebands](https://www.usenix.org/system/files/usenixsecurity24-tu.pdf) (USENIX Security 24)
 
 [BaseMirror: Automatic Reverse Engineering of Baseband Commands from Android's Radio Interface Layer](https://arxiv.org/pdf/2409.00475) (CCS 24)
 
 ### Emulation and fuzzing 
 [Emulating Samsung’s Baseband for Security Testing](https://i.blackhat.com/USA-20/Wednesday/us-20-Hernandez-Emulating-Samsungs-Baseband-For-Security-Testing.pdf)
 
-[BaseSAFE: Baseband SAnitized Fuzzing through Emulation](https://dl.acm.org/doi/pdf/10.1145/3395351.3399360?casa_token=3UggI7CmJX4AAAAA:Deh7qkL1M6xy5lm6BqsPcYdH5wbhUDzH4ckQPNkDGo_LXTrkPVledrrqsnkefgzJeuX5f2DPXp4) (WiSec 20)
+[BaseSAFE: Baseband SAnitized Fuzzing through Emulation](https://dl.acm.org/doi/pdf/10.1145/3395351.3399360) (WiSec 20)
 
 [ARIstoteles – Dissecting Apple’s Baseband Interface](https://link.springer.com/chapter/10.1007/978-3-030-88418-5_7) (ESORICS 21)
 
@@ -63,29 +63,29 @@ This repo collects academic papers / open source projects / conference talks / f
 
 [Component-Based Formal Analysis of 5G-AKA: Channel Assumptions and Session Confusion](https://www.ndss-symposium.org/wp-content/uploads/2019/02/ndss2019_06B-1_Cremers_paper.pdf) (NDSS 19)
 
-[5GReasoner: A Property-Directed Security and Privacy Analysis Framework for 5G Cellular Network Protocol](https://scholar.google.com/scholar_url?url=https://dl.acm.org/doi/pdf/10.1145/3319535.3354263&hl=en&sa=T&oi=gsb-gga&ct=res&cd=0&d=8387770294509502037&ei=9xZwZKCVOpn5yATM9JTYDw&scisig=AGlGAw8UO9qubAAFKM0dMirIo53Y) (CCS 19)
+[5GReasoner: A Property-Directed Security and Privacy Analysis Framework for 5G Cellular Network Protocol](https://dl.acm.org/doi/pdf/10.1145/3319535.3354263) (CCS 19)
 
-[A Formal Analysis of 5G Authentication](https://dl.acm.org/doi/pdf/10.1145/3243734.3243846?casa_token=Udg5jHRM7eIAAAAA:UFmvjlfg5cqOoO2sRiynZ61F3yiBOfvaKgByZE6_uI0Cgaf6HnlPmHsTNrKijHqCR6XflDstT7w) (CCS 18)
+[A Formal Analysis of 5G Authentication](https://dl.acm.org/doi/pdf/10.1145/3243734.3243846) (CCS 18)
 
 
 ### Fuzzing & Testing
-[Touching the Untouchables: Dynamic Security Analysis of the LTE Control Plane](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8835363&casa_token=vyy_OHCpwYsAAAAA:HszCEmYSenLuMT33kFVwCiuvLhtdvYliLS1tBBfKoznBBeDpZtG_eXQx2TvK710ApqXF66c) (IEEE S&P 19)
+[Touching the Untouchables: Dynamic Security Analysis of the LTE Control Plane](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8835363) (IEEE S&P 19)
 
 [ProChecker: An Automated Security and Privacy Analysis Framework for 4G LTE Protocol Implementations](https://ieeexplore.ieee.org/document/9546434) (ICDCS21)
 
-[Noncompliance as Deviant Behavior: An Automated Black-box Noncompliance Checker for 4G LTE Cellular Devices](https://dl.acm.org/doi/pdf/10.1145/3460120.3485388?casa_token=1trYQbO0eJ8AAAAA:movuNQPErx5n5KLo8iJxQMlFaKBYw5zA0Fm5ldAcXz6G1rNsYhIclTP2qCQaXmUGZWPN06Gjooo) (CCS 21)
+[Noncompliance as Deviant Behavior: An Automated Black-box Noncompliance Checker for 4G LTE Cellular Devices](https://dl.acm.org/doi/pdf/10.1145/3460120.3485388) (CCS 21)
 
 [DoLTEst: In-depth Downlink Negative Testing Framework for LTE Devices](https://www.usenix.org/system/files/sec22-park-cheoljun.pdf) (USENIX Sec 22)
 
 [Putting LTE Security Functions to the Test: A Framework to Evaluate Implementation Correctness](https://www.usenix.org/system/files/conference/woot16/woot16-paper-rupprecht.pdf) (WOOT 16)
 
-[UE Security Reloaded: Developing a 5G Standalone User-Side Security Testing Framework](https://www.researchgate.net/profile/Evangelos-Bitsikas/publication/371695252_UE_Security_Reloaded_Developing_a_5G_Standalone_User-Side_Security_Testing_Framework/links/64909ee78de7ed28ba3e20e9/UE-Security-Reloaded-Developing-a-5G-Standalone-User-Side-Security-Testing-Framework.pdf) (Wisec 23)
+[UE Security Reloaded: Developing a 5G Standalone User-Side Security Testing Framework](https://dl.acm.org/doi/pdf/10.1145/3558482.3590194) (Wisec 23)
 
 [SecChecker: Inspecting the security implementation of 5G Commercial Off-The-Shelf (COTS) mobile devices](https://www.sciencedirect.com/science/article/abs/pii/S0167404823002717)
 
 [Towards Automated Fuzzing of 4G/5G Protocol Implementations Over the Air](https://asset-group.github.io/papers/AutoFuzz4G5G.pdf)
 
-[An Experimental Testbed for 5G Network Security Assessment](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10154283)
+[An Experimental Testbed for 5G Network Security Assessment](https://inria.hal.science/hal-04364306/file/NOMS_2023.pdf)
 
 [VET5G: A Virtual End-to-End Testbed for 5G Network Security Experimentation](https://dl.acm.org/doi/pdf/10.1145/3546096.3546111) (CSET 22)
 
@@ -95,7 +95,7 @@ This repo collects academic papers / open source projects / conference talks / f
 
 [ASTRA-5G: Automated Over-the-Air Security Testing and Research Architecture for 5G SA Devices](https://dl.acm.org/doi/pdf/10.1145/3643833.3656141) (Wisec'24)
 
-[RANsacked: A Domain-Informed Approach for Fuzzing LTE and 5G RAN-Core Interfaces]() (CCS'24)
+[RANsacked: A Domain-Informed Approach for Fuzzing LTE and 5G RAN-Core Interfaces](https://nathanielbennett.com/publications/ransacked.pdf) (CCS'24)
 
 ### Specification analysis
 
@@ -105,7 +105,7 @@ This repo collects academic papers / open source projects / conference talks / f
 
 [Sherlock on Specs: Building LTE Conformance Tests through Automated Reasoning](https://www.usenix.org/system/files/sec23fall-prepub-518-chen-yi.pdf) (USENIX Security 23)
 
-[Instructions Unclear: Undefined Behaviour in Cellular Network Specifications](https://www.usenix.org/conference/usenixsecurity23/presentation/klischies) (USENIX Security 23)
+[Instructions Unclear: Undefined Behaviour in Cellular Network Specifications](https://www.usenix.org/system/files/usenixsecurity23-klischies.pdf) (USENIX Security 23)
 
 [Hermes: Unlocking Security Analysis of Cellular Network Protocols by Synthesizing Finite State Machines from Natural Language Specifications](https://arxiv.org/pdf/2310.04381.pdf) (USENIX Security 24)
 
@@ -114,13 +114,13 @@ This repo collects academic papers / open source projects / conference talks / f
 
 ### Lower Layer attacks
 
-[Breaking LTE on Layer Two](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8835335&casa_token=o8_6BFMHkgsAAAAA:4IXB1wl-Nz62dj2y5TmxJKbC96iDO-i_UDyQAwhMGBRb9RU_JSFs1Lmg1PQ3ZDd8ge7FHO0) (IEEE S&P 19)
+[Breaking LTE on Layer Two](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8835335) (IEEE S&P 19)
 
 [IMP4GT: IMPersonation Attacks in 4G NeTworks](https://www.ndss-symposium.org/wp-content/uploads/2020/02/24283.pdf) (NDSS 20)
 
 [LTE PHY Layer Vulnerability Analysis and Testing Using Open-Source SDR Tools](https://ieeexplore.ieee.org/document/8170787) (MilCom17)
 
-[On the Criticality of Integrity Protection in 5G Fronthaul Networks](https://www.usenix.org/conference/usenixsecurity24/presentation/xing-jiarong) (USENIX Security 24)
+[On the Criticality of Integrity Protection in 5G Fronthaul Networks](https://www.usenix.org/system/files/usenixsecurity24-xing-jiarong.pdf) (USENIX Security 24)
 
 
 ### Overshadowing attacks
@@ -137,7 +137,7 @@ This repo collects academic papers / open source projects / conference talks / f
 
 [Call Me Maybe: Eavesdropping Encrypted LTE Calls With ReVoLTE](https://www.usenix.org/system/files/sec20-rupprecht.pdf) (USENIX Sec 20)
 
-[From 5G Sniffing to Harvesting Leakages of Privacy-Preserving Messengers](https://www.computer.org/csdl/proceedings-article/sp/2023/933600b919/1Js0EtrckoM) (IEEE S&P 23)
+[From 5G Sniffing to Harvesting Leakages of Privacy-Preserving Messengers](https://www.khoury.northeastern.edu/home/noubir/publications-local/LRN2023.pdf) (IEEE S&P 23)
 
 [LTESniffer: An Open-source LTE Downlink/Uplink Eavesdropper](https://syssec.kaist.ac.kr/pub/2023/wisec2023_tuan.pdf) (Wisec 23)
 
@@ -179,7 +179,7 @@ This repo collects academic papers / open source projects / conference talks / f
 
 [SecureSIM: Rethinking Authentication and Access Control for SIM/eSIM](https://dl.acm.org/doi/pdf/10.1145/3447993.3483254) (MobiCom 21)
 
-[SIMurai: Slicing Through the Complexity of SIM Card Security Research](https://www.usenix.org/conference/usenixsecurity24/presentation/lisowski) (USENIX Security 24)
+[SIMurai: Slicing Through the Complexity of SIM Card Security Research](https://www.usenix.org/system/files/usenixsecurity24-lisowski.pdf) (USENIX Security 24)
 
 ### Data-plane attack
 
