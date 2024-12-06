@@ -145,6 +145,14 @@ This repo collects academic papers / open source projects / conference talks / f
 
 [New Security Threats Caused by IMS-based SMS Service in 4G LTE Networks](https://dl.acm.org/doi/pdf/10.1145/2976749.2978393) (CCS 16)
 
+[IMS is Not That Secure on Your 5G/4G Phones](https://dl.acm.org/doi/pdf/10.1145/3636534.3649377) (MobiCom 24)
+
+### Emergency Systems
+
+[You have been warned: Abusing 5G’s Warning and Emergency Systems](https://dl.acm.org/doi/pdf/10.1145/3564625.3568000) (ACSAC 22)
+
+[Uncovering Problematic Designs Hindering Ubiquitous Cellular Emergency Services Access](https://dl.acm.org/doi/pdf/10.1145/3636534.3690704) (MobiCom 24)
+
 ### Spoofing
 
 [Ghost Telephonist Impersonates You: Vulnerability In 4G LTE CS Fallback](https://ieeexplore.ieee.org/document/8228629) (CNS17)
@@ -155,8 +163,6 @@ This repo collects academic papers / open source projects / conference talks / f
 
 [LTE Security Disabled—Misconfiguration in Commercial Networks](https://dl.acm.org/doi/pdf/10.1145/3317549.3324927) (Wisec 19)
 
-[You have been warned: Abusing 5G’s Warning and Emergency Systems](https://dl.acm.org/doi/pdf/10.1145/3564625.3568000) (ACSAC 22)
-
 ### Tracking
 
 [5G SUCI-Catchers: Still catching them all?](https://dl.acm.org/doi/pdf/10.1145/3448300.3467826) (Wisec 21)
@@ -164,6 +170,8 @@ This repo collects academic papers / open source projects / conference talks / f
 [GUTI Reallocation Demystified: Cellular Location Tracking with Changing Temporary Identifier](https://syssec.kaist.ac.kr/pub/2018/hong_ndss_2018.pdf) (NDSS 18)
 
 [Practical Attacks Against Privacy and Availability in 4G/LTE Mobile Communication Systems](https://arxiv.org/pdf/1510.07563.pdf) (NDSS 16) 
+
+[Enabling Physical Localization of Uncooperative Cellular Devices](https://arxiv.org/pdf/2403.14963) (MobiCom 24)
 
 ### Handover attacks
 
@@ -250,6 +258,8 @@ This repo collects academic papers / open source projects / conference talks / f
 
 [CellDAM: User-Space, Rootless Detection and Mitigation for 5G Data Plane](https://www.usenix.org/system/files/nsdi23-tan.pdf) (NSDI 23)
 
+[M2HO: Mitigating the Adverse Effects of 5G Handovers on TCP](https://www.cs.ucr.edu/~zhiyunq/pub/mobicom24_5g_handover.pdf) (MobiCom 24)
+
 ### Fake Base Station Detection
 
 [Murat: Multi-RAT False Base Station Detector](https://arxiv.org/pdf/2102.08780.pdf)
@@ -275,6 +285,12 @@ This repo collects academic papers / open source projects / conference talks / f
 [A Fine-Grained Telemetry Stream for Security Services in 5G Open Radio Access Networks](https://dl.acm.org/doi/pdf/10.1145/3565474.3569070) (EmergingWireless 22)
 
 [Det-RAN: Data-Driven Cross-Layer Real-Time Attack Detection in 5G Open RANs](https://ece.northeastern.edu/wineslab/papers/scalingi2024infocom.pdf) (INFOCOM 24)
+
+[6G-XSec: Explainable Edge Security for Emerging OpenRAN Architectures](https://dl.acm.org/doi/pdf/10.1145/3696348.3696881) (HotNets 24)
+
+### Network Diagnosis
+
+[SEEN: ML Assisted Cellular Service Diagnosis](https://dl.acm.org/doi/pdf/10.1145/3636534.3690678) (MobiCom 24)
 
 ## O-RAN related
 
