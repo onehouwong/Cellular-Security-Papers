@@ -276,6 +276,10 @@ This repo collects academic papers / open source projects / conference talks / f
 
 [Catch You Cause I Can: Busting Rogue Base Stations using CellGuard and the Apple Cell Location Database](https://dl.acm.org/doi/pdf/10.1145/3678890.3678898) (RAID 24)
 
+[Detecting IMSI-Catchers by Characterizing Identity Exposing Messages in Cellular Traffic]() (NDSS 25)
+
+[Gotta Detect 'Em All: Fake Base Station and Multi-Step Attack Detection in Cellular Networks](https://arxiv.org/pdf/2401.04958) (USENIX Security 25)
+
 ### Defense on O-RAN
 
 [5G-Spector: An O-RAN Compliant Layer-3 Cellular Attack Detection Service](http://web.cse.ohio-state.edu/~wen.423/papers/5G-Spector-NDSS24.pdf) (NDSS 24)
@@ -435,4 +439,6 @@ This repo collects academic papers / open source projects / conference talks / f
 [TSpec-LLM: An Open-source Dataset for LLM Understanding of 3GPP Specifications](https://huggingface.co/datasets/rasoul-nikbakht/TSpec-LLM)
 
 [ORAN-Bench-13K: An Open Source Benchmark for Assessing LLMs in Open Radio Access Networks](https://arxiv.org/pdf/2407.06245)
+
+[Gotta Detect ’Em All: Fake Base Station and Multi-Step Attack Detection in Cellular Networks](https://arxiv.org/pdf/2401.04958)
 
