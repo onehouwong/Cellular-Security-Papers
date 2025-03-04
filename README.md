@@ -97,6 +97,11 @@ This repo collects academic papers / open source projects / conference talks / f
 
 [RANsacked: A Domain-Informed Approach for Fuzzing LTE and 5G RAN-Core Interfaces](https://nathanielbennett.com/publications/ransacked.pdf) (CCS'24)
 
+[Feedback-Guided API Fuzzing of 5G Network](https://www.ndss-symposium.org/wp-content/uploads/futureg25-71.pdf) (NDSS FutureG Workshop'25)
+
+[MOBIDOJO: A Virtual Security Combat Platform for 5G Cellular Networks](https://www.ndss-symposium.org/wp-content/uploads/futureg25-35.pdf) (NDSS FutureG Workshop'25)
+
+
 ### Specification analysis
 
 [Bookworm Game: Automatic Discovery of LTE Vulnerabilities Through Documentation Analysis](https://ieeexplore.ieee.org/document/9519388) (IEEE S&P 21)
@@ -207,6 +212,8 @@ This repo collects academic papers / open source projects / conference talks / f
 
 [New vulnerabilities in 4G and 5G cellular access network protocols: exposing device capabilities](https://dl.acm.org/doi/pdf/10.1145/3317549.3319728) (WiSec19)
 
+[AI-Assisted RF Fingerprinting for Identification of User Devices in 5G and FutureG](https://www.ndss-symposium.org/wp-content/uploads/futureg25-9.pdf) (NDSS FutureG Workshop'25)
+
 ### Downgrade
 
 [Never Let Me Down Again: Bidding-Down Attacks and Mitigations in 5G and 4G](https://radix-security.com/files/2021_downgrade.pdf) (WiSec 23)
@@ -234,6 +241,10 @@ This repo collects academic papers / open source projects / conference talks / f
 ### Satellite Networks
 
 [The Dark Side of Scale: Insecurity of Direct-to-Cell Satellite Mega-Constellations](https://ieeexplore.ieee.org/document/10646850) (IEEE S&P 24)
+
+### Software Analysis
+
+[Towards LLM-Assisted Vulnerability Detection and Repair for Open-Source 5G UE Implementations](https://www.ndss-symposium.org/wp-content/uploads/futureg25-21.pdf) (NDSS FutureG Workshop'25)
 
 ## Defense
 
@@ -276,7 +287,7 @@ This repo collects academic papers / open source projects / conference talks / f
 
 [Catch You Cause I Can: Busting Rogue Base Stations using CellGuard and the Apple Cell Location Database](https://dl.acm.org/doi/pdf/10.1145/3678890.3678898) (RAID 24)
 
-[Detecting IMSI-Catchers by Characterizing Identity Exposing Messages in Cellular Traffic]() (NDSS 25)
+[Detecting IMSI-Catchers by Characterizing Identity Exposing Messages in Cellular Traffic](https://www.ndss-symposium.org/wp-content/uploads/2025-1115-paper.pdf) (NDSS 25)
 
 [Gotta Detect 'Em All: Fake Base Station and Multi-Step Attack Detection in Cellular Networks](https://arxiv.org/pdf/2401.04958) (USENIX Security 25)
 
@@ -326,7 +337,8 @@ This repo collects academic papers / open source projects / conference talks / f
 
 [System-level Analysis of Adversarial Attacks and Defenses on Intelligence in O-RAN based Cellular Networks](https://dl.acm.org/doi/pdf/10.1145/3643833.3656119) (Wisec'24)
 
-       
+[ABElity: Attribute Based Encryption for Securing RIC Communication in Open RAN](https://www.ndss-symposium.org/wp-content/uploads/futureg25-99.pdf) (NDSS FutureG Workshop'25)
+
 ## Core Network Security
 
 [Evaluating the Security Posture of 5G Networks by Combining State Auditing and Event Monitoring](https://cisr.encs.concordia.ca/papers/ESORICS_2023_paper_377_5GSPE.pdf) (ESORICS'23)
@@ -347,6 +359,7 @@ This repo collects academic papers / open source projects / conference talks / f
 
 [Examining Cryptography and Randomness Failures in Open-Source Cellular Cores](https://www.enck.org/pubs/english-codaspy24.pdf) (CODASPY'24)
 
+[Towards Establishing a Systematic Security Framework for Next Generation Cellular Networks](https://www.ndss-symposium.org/wp-content/uploads/futureg25-84.pdf) (NDSS FutureG Workshop'25)
 
 ## Network Slicing Security
 
