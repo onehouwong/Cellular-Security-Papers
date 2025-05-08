@@ -343,6 +343,8 @@ This repo collects academic papers / open source projects / conference talks / f
 
 [System-level Analysis of Adversarial Attacks and Defenses on Intelligence in O-RAN based Cellular Networks](https://dl.acm.org/doi/pdf/10.1145/3643833.3656119) (Wisec'24)
 
+[Implementing and Evaluating Security in O-RAN: Interfaces, Intelligence, and Platforms](https://arxiv.org/pdf/2304.11125) (IEEE Network Magazine)
+
 [ABElity: Attribute Based Encryption for Securing RIC Communication in Open RAN](https://www.ndss-symposium.org/wp-content/uploads/futureg25-99.pdf) (NDSS FutureG Workshop'25)
 
 ## Core Network Security
