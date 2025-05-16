@@ -41,7 +41,7 @@ This repo collects academic papers / open source projects / conference talks / f
 
 [BaseMirror: Automatic Reverse Engineering of Baseband Commands from Android's Radio Interface Layer](https://arxiv.org/pdf/2409.00475) (CCS 24)
 
-[Stateful Analysis and Fuzzing of Commercial Baseband Firmware]() (IEEE S&P 25)
+[Stateful Analysis and Fuzzing of Commercial Baseband Firmware](https://www.computer.org/csdl/proceedings-article/sp/2025/223600b082/26hiU6JdGYE) (IEEE S&P 25)
 
 ### Emulation and fuzzing 
 [Emulating Samsung’s Baseband for Security Testing](https://i.blackhat.com/USA-20/Wednesday/us-20-Hernandez-Emulating-Samsungs-Baseband-For-Security-Testing.pdf)
@@ -52,7 +52,7 @@ This repo collects academic papers / open source projects / conference talks / f
 
 [FIRMWIRE: Transparent Dynamic Analysis for Cellular Baseband Firmware](https://www.ndss-symposium.org/wp-content/uploads/2022-136-paper.pdf) (NDSS 22)
 
-[BaseBridge: Bridging the Gap between Emulation and Over-The-Air Testing for Cellular Baseband Firmware ]() (IEEE S&P 25)
+[BaseBridge: Bridging the Gap between Emulation and Over-The-Air Testing for Cellular Baseband Firmware](https://www.computer.org/csdl/proceedings-article/sp/2025/223600b101/26EkFnSdkOY) (IEEE S&P 25)
 
 
 ## Vulnerability Discovery / Analysis
@@ -71,7 +71,7 @@ This repo collects academic papers / open source projects / conference talks / f
 
 [A Formal Analysis of 5G Authentication](https://dl.acm.org/doi/pdf/10.1145/3243734.3243846) (CCS 18)
 
-[From Control to Chaos: A Comprehensive Formal Analysis of 5G's Access Control]() (IEEE S&P 25)
+[From Control to Chaos: A Comprehensive Formal Analysis of 5G's Access Control](https://www.computer.org/csdl/proceedings-article/sp/2025/223600b043/26hiU5s1BGE) (IEEE S&P 25)
 
 
 ### Fuzzing & Testing
