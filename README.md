@@ -71,6 +71,8 @@ This repo collects academic papers / open source projects / conference talks / f
 
 [A Formal Analysis of 5G Authentication](https://dl.acm.org/doi/pdf/10.1145/3243734.3243846) (CCS 18)
 
+[A Systematic Analysis Method for 5G Non-Access Stratum Signalling Security](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8817957) (IEEE Access 19)
+
 [From Control to Chaos: A Comprehensive Formal Analysis of 5G's Access Control](https://www.computer.org/csdl/proceedings-article/sp/2025/223600b043/26hiU5s1BGE) (IEEE S&P 25)
 
 
