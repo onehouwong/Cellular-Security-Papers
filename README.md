@@ -109,6 +109,7 @@ This repo collects academic papers / open source projects / conference talks / f
 
 [MOBIDOJO: A Virtual Security Combat Platform for 5G Cellular Networks](https://www.ndss-symposium.org/wp-content/uploads/futureg25-35.pdf) (NDSS FutureG Workshop'25)
 
+[GLaDoS: Location-aware Denial-of-Service of Cellular Networks](https://www.usenix.org/conference/usenixsecurity25/presentation/erni) (USENIX Sec 25)
 
 ### Specification analysis
 
@@ -269,6 +270,8 @@ This repo collects academic papers / open source projects / conference talks / f
 
 [Fixing Insecure Cellular System Information Broadcasts For Good](https://dl.acm.org/doi/pdf/10.1145/3678890.3678924) (RAID 24)
 
+[AKMA+: Security and Privacy-Enhanced and Standard-Compatible AKMA for 5G Communication](https://www.usenix.org/conference/usenixsecurity25/presentation/yang-yang) (USENIX Sec 25)
+
 ### Defense in UE
 
 [Thwarting Smartphone SMS Attacks at the Radio Interface Layer](https://www.ndss-symposium.org/wp-content/uploads/2023/02/ndss2023_f432_paper.pdf) (NDSS 23)
@@ -278,6 +281,8 @@ This repo collects academic papers / open source projects / conference talks / f
 [CellDAM: User-Space, Rootless Detection and Mitigation for 5G Data Plane](https://www.usenix.org/system/files/nsdi23-tan.pdf) (NSDI 23)
 
 [M2HO: Mitigating the Adverse Effects of 5G Handovers on TCP](https://www.cs.ucr.edu/~zhiyunq/pub/mobicom24_5g_handover.pdf) (MobiCom 24)
+
+[Gotta Detect ’Em All: Fake Base Station and Multi-Step Attack Detection in Cellular Networks](https://www.usenix.org/conference/usenixsecurity25/presentation/mubasshir) (USENIX Sec 25)
 
 ### Fake Base Station Detection
 
@@ -370,6 +375,9 @@ This repo collects academic papers / open source projects / conference talks / f
 [Examining Cryptography and Randomness Failures in Open-Source Cellular Cores](https://www.enck.org/pubs/english-codaspy24.pdf) (CODASPY'24)
 
 [Towards Establishing a Systematic Security Framework for Next Generation Cellular Networks](https://www.ndss-symposium.org/wp-content/uploads/futureg25-84.pdf) (NDSS FutureG Workshop'25)
+
+[CoreCrisis: Threat-Guided and Context-Aware Iterative Learning and Fuzzing of 5G Core Networks](https://www.usenix.org/conference/usenixsecurity25/presentation/dong-yilu) (USENIX Sec 25)
+
 
 ## Network Slicing Security
 
