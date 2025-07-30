@@ -56,6 +56,8 @@ This repo collects academic papers / open source projects / conference talks / f
 
 [FirmState: Bringing Cellular Protocol States to Shannon Baseband Emulation](https://dl.acm.org/doi/pdf/10.1145/3734477.3734726) (WiSec 25)
 
+[LLFuzz: An Over-the-Air Dynamic Testing Framework for Cellular Baseband Lower Layers](https://www.usenix.org/conference/usenixsecurity25/presentation/hoang) (USENIX Sec 25)
+
 
 
 ## Vulnerability Discovery / Analysis
@@ -142,7 +144,7 @@ This repo collects academic papers / open source projects / conference talks / f
 [Low-Layer Attacks Against 4G/5G Networks](https://dl.acm.org/doi/pdf/10.1145/3734477.3734725) (WiSec 25)
 
 
-### Overshadowing attacks
+### Overshadowing / Injection attacks
 
 [Hiding in Plain Signal: Physical Signal Overshadowing Attack on LTE](https://www.usenix.org/system/files/sec19-yang-hojoon.pdf) (USENIX Sec 19)
 
@@ -151,6 +153,8 @@ This repo collects academic papers / open source projects / conference talks / f
 [LTRACK: Stealthy Tracking of Mobile Phones in LTE](https://www.usenix.org/system/files/sec22summer_kotuliak.pdf) (Usenix Sec 22)
 
 [SigUnder: a stealthy 5G low power attack and defenses](https://dl.acm.org/doi/pdf/10.1145/3448300.3467817) (Wisec 21)
+
+[SNI5GECT: A Practical Approach to Inject aNRchy into 5G NR](https://www.usenix.org/conference/usenixsecurity25/presentation/luo-shijie) (USENIX Sec 25)
 
 ### Eavesdropping
 
@@ -165,6 +169,8 @@ This repo collects academic papers / open source projects / conference talks / f
 [New Security Threats Caused by IMS-based SMS Service in 4G LTE Networks](https://dl.acm.org/doi/pdf/10.1145/2976749.2978393) (CCS 16)
 
 [IMS is Not That Secure on Your 5G/4G Phones](https://dl.acm.org/doi/pdf/10.1145/3636534.3649377) (MobiCom 24)
+
+[Preventing Artificially Inflated SMS Attacks through Large-Scale Traffic Inspection](https://www.usenix.org/conference/usenixsecurity25/presentation/huh) (USENIX Sec 25)
 
 ### Emergency Systems
 
@@ -211,6 +217,8 @@ This repo collects academic papers / open source projects / conference talks / f
 [SIMurai: Slicing Through the Complexity of SIM Card Security Research](https://www.usenix.org/system/files/usenixsecurity24-lisowski.pdf) (USENIX Security 24)
 
 [On the Performance and Consistency Trade-off of the eSIM M2M Remote Provisioning Protocol](https://dl.acm.org/doi/pdf/10.1145/3734477.3734712) (WiSec 25)
+
+[eSIMplicity or eSIMplification? Privacy and Security Risks in the eSIM Ecosystem](https://www.usenix.org/conference/usenixsecurity25/presentation/motallebighomi) (USENIX Sec 25)
 
 ### Data-plane attack
 
