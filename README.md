@@ -54,6 +54,9 @@ This repo collects academic papers / open source projects / conference talks / f
 
 [BaseBridge: Bridging the Gap between Emulation and Over-The-Air Testing for Cellular Baseband Firmware](https://www.computer.org/csdl/proceedings-article/sp/2025/223600b101/26EkFnSdkOY) (IEEE S&P 25)
 
+[FirmState: Bringing Cellular Protocol States to Shannon Baseband Emulation](https://dl.acm.org/doi/pdf/10.1145/3734477.3734726) (WiSec 25)
+
+
 
 ## Vulnerability Discovery / Analysis
 
@@ -136,6 +139,8 @@ This repo collects academic papers / open source projects / conference talks / f
 
 [On the Criticality of Integrity Protection in 5G Fronthaul Networks](https://www.usenix.org/system/files/usenixsecurity24-xing-jiarong.pdf) (USENIX Security 24)
 
+[Low-Layer Attacks Against 4G/5G Networks](https://dl.acm.org/doi/pdf/10.1145/3734477.3734725) (WiSec 25)
+
 
 ### Overshadowing attacks
 
@@ -187,6 +192,8 @@ This repo collects academic papers / open source projects / conference talks / f
 
 [Enabling Physical Localization of Uncooperative Cellular Devices](https://arxiv.org/pdf/2403.14963) (MobiCom 24)
 
+[FlashCatch: Minimizing Disruption in IMSI Catcher Operations](https://dl.acm.org/doi/pdf/10.1145/3734477.3734719) (WiSec 25)
+
 ### Handover attacks
 
 [Don’t hand it Over: Vulnerabilities in the Handover Procedure of Cellular Telecommunications](https://dl.acm.org/doi/pdf/10.1145/3485832.3485914) (ACSAC 21)
@@ -202,6 +209,8 @@ This repo collects academic papers / open source projects / conference talks / f
 [SecureSIM: Rethinking Authentication and Access Control for SIM/eSIM](https://dl.acm.org/doi/pdf/10.1145/3447993.3483254) (MobiCom 21)
 
 [SIMurai: Slicing Through the Complexity of SIM Card Security Research](https://www.usenix.org/system/files/usenixsecurity24-lisowski.pdf) (USENIX Security 24)
+
+[On the Performance and Consistency Trade-off of the eSIM M2M Remote Provisioning Protocol](https://dl.acm.org/doi/pdf/10.1145/3734477.3734712) (WiSec 25)
 
 ### Data-plane attack
 
@@ -247,6 +256,8 @@ This repo collects academic papers / open source projects / conference talks / f
 
 [Demystifying Privacy in 5G Stand Alone Networks](https://arxiv.org/pdf/2409.17700) (MobiCom 24)
 
+[Assessing the Latency of Network Layer Security in 5G Networks](https://dl.acm.org/doi/pdf/10.1145/3734477.3734722) (WiSec 25)
+
 ### Satellite Networks
 
 [The Dark Side of Scale: Insecurity of Direct-to-Cell Satellite Mega-Constellations](https://ieeexplore.ieee.org/document/10646850) (IEEE S&P 24)
@@ -271,6 +282,8 @@ This repo collects academic papers / open source projects / conference talks / f
 [Fixing Insecure Cellular System Information Broadcasts For Good](https://dl.acm.org/doi/pdf/10.1145/3678890.3678924) (RAID 24)
 
 [AKMA+: Security and Privacy-Enhanced and Standard-Compatible AKMA for 5G Communication](https://www.usenix.org/conference/usenixsecurity25/presentation/yang-yang) (USENIX Sec 25)
+
+[Standing Firm in 5G: A Single-Round, Dropout-Resilient Secure Aggregation for Federated Learning](https://dl.acm.org/doi/pdf/10.1145/3734477.3734719) (WiSec 25)
 
 ### Defense in UE
 
@@ -303,6 +316,8 @@ This repo collects academic papers / open source projects / conference talks / f
 [Detecting IMSI-Catchers by Characterizing Identity Exposing Messages in Cellular Traffic](https://www.ndss-symposium.org/wp-content/uploads/2025-1115-paper.pdf) (NDSS 25)
 
 [Gotta Detect 'Em All: Fake Base Station and Multi-Step Attack Detection in Cellular Networks](https://arxiv.org/pdf/2401.04958) (USENIX Security 25)
+
+[Evaluating Time-Bounded Defense Against RRC Relay in 5G Broadcast Messages](https://dl.acm.org/doi/pdf/10.1145/3734477.3734718) (WiSec 25)
 
 ### Defense on O-RAN
 
@@ -354,6 +369,8 @@ This repo collects academic papers / open source projects / conference talks / f
 
 [ABElity: Attribute Based Encryption for Securing RIC Communication in Open RAN](https://www.ndss-symposium.org/wp-content/uploads/futureg25-99.pdf) (NDSS FutureG Workshop'25)
 
+[AI5GTest: AI-Driven Specification-Aware Automated Testing and Validation of 5G O-RAN Components](https://dl.acm.org/doi/pdf/10.1145/3734477.3734703) (WiSec 25)
+
 ## Core Network Security
 
 [Evaluating the Security Posture of 5G Networks by Combining State Auditing and Event Monitoring](https://cisr.encs.concordia.ca/papers/ESORICS_2023_paper_377_5GSPE.pdf) (ESORICS'23)
@@ -389,13 +406,15 @@ This repo collects academic papers / open source projects / conference talks / f
 
 [DeepSecure: Detection of distributed denial of service attacks on 5G network slicing—Deep learning approach](https://ieeexplore.ieee.org/abstract/document/9638941)
 
-## Survey
+## Survey & SoK
 
 [5G core network security issues and attack classification from network protocol perspective](https://isyou.info/jisis/vol10/no2/jisis-2020-vol10-no2-01.pdf)
 
 [5G Security and Privacy – A Research Roadmap](https://arxiv.org/ftp/arxiv/papers/2003/2003.13604.pdf)
 
 [Improving 4G/5G air interface security: A survey of existing attacks on different LTE layers](https://www.sciencedirect.com/science/article/pii/S1389128621004576)
+
+[SoK: Evaluating 5G-Advanced Protocols Against Legacy and Emerging Privacy and Security Attacks](https://dl.acm.org/doi/pdf/10.1145/3734477.3734716) (WiSec 25)
 
 
 ## Open Source Projects / Frameworks / Tools
