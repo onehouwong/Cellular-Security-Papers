@@ -10,7 +10,7 @@ This repo collects academic papers / open source projects / conference talks / f
 - [O-RAN Related](https://github.com/onehouwong/Cellular-Security-Papers#o-ran-related)
 - [Core Network Security](https://github.com/onehouwong/Cellular-Security-Papers#core-network-security)
 - [Network Slicing Security](https://github.com/onehouwong/Cellular-Security-Papers#network-slicing-security)
-- [Survey](https://github.com/onehouwong/Cellular-Security-Papers#survey)
+- [Survey & SoK](https://github.com/onehouwong/Cellular-Security-Papers/#survey--sok)
 - [Open Source Projects / Frameworks / Tools](https://github.com/onehouwong/Cellular-Security-Papers#open-source-projects--frameworks--tools)
 - [Testbeds](https://github.com/onehouwong/Cellular-Security-Papers#testbeds)
 - [Open Dataset](https://github.com/onehouwong/Cellular-Security-Papers#open-dataset)
