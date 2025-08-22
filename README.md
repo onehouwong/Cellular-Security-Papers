@@ -445,6 +445,8 @@ This repo collects academic papers / open source projects / conference talks / f
 
 [OAI 5GC](https://gitlab.eurecom.fr/oai/cn5g/oai-cn5g-fed/)
 
+[QCore](https://github.com/nplrkn/qcore)
+
 ### O-RAN RIC / xApps / rApps
 
 [O-RAN SC](https://wiki.o-ran-sc.org/display/ORAN)
