@@ -341,6 +341,8 @@ This repo collects academic papers / open source projects / conference talks / f
 
 [SpotLight: Accurate, Explainable and Efficient Anomaly Detection for Open RAN](https://dl.acm.org/doi/pdf/10.1145/3636534.3649380) (MobiCom 24)
 
+[MobiLLM: An Agentic AI Framework for Closed-Loop Threat Mitigation in 6G Open RANs](https://arxiv.org/pdf/2509.21634) (6GSECC 25)
+
 ### Network Diagnosis
 
 [SEEN: ML Assisted Cellular Service Diagnosis](https://dl.acm.org/doi/pdf/10.1145/3636534.3690678) (MobiCom 24)
