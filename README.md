@@ -228,6 +228,8 @@ This repo collects academic papers / open source projects / conference talks / f
 
 [Invade the Walled Garden: Evaluating GTP Security in Cellular Networks](https://www.computer.org/csdl/proceedings-article/sp/2025/223600a028/21B7QiopxHq) (IEEE S&P 25)
 
+[Uncovering hidden paths in 5G: Exploiting protocol tunneling and network boundary bridging]() (CCS 25)
+
 ### Fingerprinting
 
 [Preventing SIM Box Fraud Using Device Model Fingerprinting](https://www.ndss-symposium.org/wp-content/uploads/2023/02/ndss2023_f416_paper.pdf) (NDSS 23)
@@ -292,6 +294,8 @@ This repo collects academic papers / open source projects / conference talks / f
 [AKMA+: Security and Privacy-Enhanced and Standard-Compatible AKMA for 5G Communication](https://www.usenix.org/conference/usenixsecurity25/presentation/yang-yang) (USENIX Sec 25)
 
 [Standing Firm in 5G: A Single-Round, Dropout-Resilient Secure Aggregation for Federated Learning](https://dl.acm.org/doi/pdf/10.1145/3734477.3734719) (WiSec 25)
+
+[5G-RNAKA: A Random Number-based Authentication and Key Agreement Protocol for 5G Systems]() (CCS 25)
 
 ### Defense in UE
 
@@ -405,6 +409,7 @@ This repo collects academic papers / open source projects / conference talks / f
 
 [CoreCrisis: Threat-Guided and Context-Aware Iterative Learning and Fuzzing of 5G Core Networks](https://www.usenix.org/conference/usenixsecurity25/presentation/dong-yilu) (USENIX Sec 25)
 
+[CITesting: Systematic Testing of Context Integrity Violations in Cellular Core Networks]() (CCS 25)
 
 ## Network Slicing Security
 
