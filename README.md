@@ -143,6 +143,8 @@ This repo collects academic papers / open source projects / conference talks / f
 
 [Low-Layer Attacks Against 4G/5G Networks](https://dl.acm.org/doi/pdf/10.1145/3734477.3734725) (WiSec 25)
 
+[Breaking 5G on The Lower Layer](https://www.ndss-symposium.org/ndss-paper/auto-draft-698/) (FutureG 26)
+
 
 ### Overshadowing / Injection attacks
 
@@ -199,6 +201,8 @@ This repo collects academic papers / open source projects / conference talks / f
 [Enabling Physical Localization of Uncooperative Cellular Devices](https://arxiv.org/pdf/2403.14963) (MobiCom 24)
 
 [FlashCatch: Minimizing Disruption in IMSI Catcher Operations](https://dl.acm.org/doi/pdf/10.1145/3734477.3734719) (WiSec 25)
+
+[Passive Multi-Target GUTI Identification via Visual-RF Correlation in LTE Networks](https://www.ndss-symposium.org/ndss-paper/passive-multi-target-guti-identification-via-visual-rf-correlation-in-lte-networks/) (NDSS 26)
 
 ### Handover attacks
 
@@ -267,6 +271,8 @@ This repo collects academic papers / open source projects / conference talks / f
 [Demystifying Privacy in 5G Stand Alone Networks](https://arxiv.org/pdf/2409.17700) (MobiCom 24)
 
 [Assessing the Latency of Network Layer Security in 5G Networks](https://dl.acm.org/doi/pdf/10.1145/3734477.3734722) (WiSec 25)
+
+[Small Cell, Big Risk: A Security Assessment of 4G LTE Femtocells in the Wild](https://www.ndss-symposium.org/ndss-paper/small-cell-big-risk-a-security-assessment-of-4g-lte-femtocells-in-the-wild/) (NDSS 26)
 
 ### Satellite Networks
 
@@ -384,6 +390,10 @@ This repo collects academic papers / open source projects / conference talks / f
 [ABElity: Attribute Based Encryption for Securing RIC Communication in Open RAN](https://www.ndss-symposium.org/wp-content/uploads/futureg25-99.pdf) (NDSS FutureG Workshop'25)
 
 [AI5GTest: AI-Driven Specification-Aware Automated Testing and Validation of 5G O-RAN Components](https://dl.acm.org/doi/pdf/10.1145/3734477.3734703) (WiSec 25)
+
+[Towards Bridging the Telemetry Gap for Security Applications in 6G OpenRANs via eBPF](https://www.ndss-symposium.org/ndss-paper/auto-draft-701/) (FutureG 26)
+
+[Assessing Supply Chain Risks in 5G O-RAN Components Using Static Analysis](https://www.ndss-symposium.org/ndss-paper/auto-draft-699/) (FutureG 26)
 
 ## Core Network Security
 
